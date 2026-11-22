@@ -1,0 +1,2155 @@
+{
+  "source": "https://catalog.digitalarchives.tw/item/00/08/67/7b.html",
+  "image_viewer": "https://commons.wikimedia.org/wiki/File:NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf",
+  "source_rights": "https://commons.wikimedia.org/wiki/File:NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#Licensing",
+  "shelfmark": "臺灣國家圖書館 06118",
+  "data_version": "0.1.0",
+  "image_inventory": [
+    {
+      "image": 1,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=1",
+      "sha256": "4d778247cb69aaafee5c7fb84407b1a32a07063a5f5c81698c903bfe2708a6f5",
+      "scan_width": 1870,
+      "scan_height": 1320,
+      "summary": "小序起首。小字記寓居起算、夏季水患及鈔錄起訖。",
+      "uncertainty": [
+        {
+          "unit_id": "f001-L-03",
+          "field": "text",
+          "char_offset_0based": 3,
+          "surface_text": "〔猘〕"
+        },
+        {
+          "unit_id": "f001-L-05",
+          "field": "text",
+          "char_offset_0based": 2,
+          "surface_text": "〔本〕"
+        },
+        {
+          "unit_id": "f001-L-07",
+          "field": "text",
+          "char_offset_0based": 12,
+          "surface_text": "〔汪〕"
+        },
+        {
+          "unit_id": "f001-L-09",
+          "field": "text",
+          "char_offset_0based": 6,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f001-L-09",
+          "field": "text",
+          "char_offset_0based": 10,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f001-L-10",
+          "field": "text",
+          "char_offset_0based": 6,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f001-L-annotation-01",
+          "field": "observation",
+          "char_offset_0based": 28,
+          "surface_text": "〔僦及從待核〕"
+        },
+        {
+          "unit_id": "f001-L-annotation-01",
+          "field": "observation",
+          "surface_text": "",
+          "note": "L02 下段兩小列「以僦居計之實九年／若從前授館計之實」〔僦及從待核〕"
+        },
+        {
+          "unit_id": "f001-L-annotation-04",
+          "field": "observation",
+          "char_offset_0based": 12,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f001-L-annotation-04",
+          "field": "observation",
+          "surface_text": "",
+          "note": "L07 所輯後兩右小筆「□□」，又沿側「卷已」先後位置待核"
+        },
+        {
+          "unit_id": "f001-L-seal-01",
+          "field": "observation",
+          "surface_text": "",
+          "note": "L01 下部右側上方長方篆印，墨色淡，印文待釋。"
+        },
+        {
+          "unit_id": "f001-L-seal-02",
+          "field": "observation",
+          "surface_text": "",
+          "note": "L01 下部右側下方近方形篆印，墨色淡，印文待釋。"
+        }
+      ]
+    },
+    {
+      "image": 2,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=2",
+      "sha256": "ee836106e7b0b5958ebbf788ba24a004ec678e872ee49f3c6735fbadbc5eb3cb",
+      "scan_width": 1870,
+      "scan_height": 1307,
+      "summary": "小序結尾。緊接前幅左面文字，含書寫時間、地點和道根署款。",
+      "uncertainty": []
+    },
+    {
+      "image": 3,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=3",
+      "sha256": "dc6667114932c93fec53d7ca4b35dc3b40d3ffdc5cb45b6d8a2ca830391a9045",
+      "scan_width": 1870,
+      "scan_height": 1307,
+      "summary": "上卷卷首題、鈔寫署款與調經。",
+      "uncertainty": [
+        {
+          "unit_id": "f003-L-10",
+          "field": "text",
+          "char_offset_0based": 11,
+          "surface_text": "〔月〕"
+        },
+        {
+          "unit_id": "f003-L-seal-01",
+          "field": "observation",
+          "surface_text": "",
+          "note": "L01 下方署款下有一方淡篆印，印文待核。"
+        }
+      ]
+    },
+    {
+      "image": 4,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=4",
+      "sha256": "d8ceb039c6b3ed7ed5d4b313de4271ee35332d09ef9bb08782cd2165801a54c4",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "調經文續，含調經散及經期異常諸條。",
+      "uncertainty": [
+        {
+          "unit_id": "f004-R-02",
+          "field": "text",
+          "char_offset_0based": 11,
+          "surface_text": "□□"
+        }
+      ]
+    },
+    {
+      "image": 5,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=5",
+      "sha256": "8e07fc7bdc7751557322f9d1cb7ddebbb6fff5345eb04e628959b3a00266b2c7",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "接調經，起惡阻。左面末欄有潘道根署名附記。",
+      "uncertainty": [
+        {
+          "unit_id": "f005-L-annotation-02",
+          "field": "observation",
+          "char_offset_0based": 37,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f005-L-annotation-02",
+          "field": "observation",
+          "char_offset_0based": 55,
+          "surface_text": "〔若干字待核〕"
+        },
+        {
+          "unit_id": "f005-L-annotation-02",
+          "field": "observation",
+          "surface_text": "",
+          "note": "L10 欄下雙列附記「古人胎前多用半夏仲景金匱諸方皆然所謂女犯／中下二焦者□也後人一皆以爲湯失古法矣潘道根記」〔若干字待核〕"
+        }
+      ]
+    },
+    {
+      "image": 6,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=6",
+      "sha256": "9f013fa1a469cc1f74442b51a413b2a9b28cda13968e95a9734ee76515224fdc",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "惡阻方續，驗胎、安胎。",
+      "uncertainty": [
+        {
+          "unit_id": "f006-L-annotation-01",
+          "field": "observation",
+          "surface_text": "",
+          "note": "L04–L05 「胎」左有小字「腹痛者」，L04「自安」後疑另有小「胞」字"
+        }
+      ]
+    },
+    {
+      "image": 7,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=7",
+      "sha256": "636f66993f49b185fd8dea8030bd542a3b3fbc7cb6c58e53bfc1a18e537755da",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "安胎諸方與胎動條。",
+      "uncertainty": []
+    },
+    {
+      "image": 8,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=8",
+      "sha256": "761eab821086e9b335f44991e970cfdec37ca65ecf48c64b24c77435a15d60dc",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "胎元、子懸、子煩、子淋及胎有水氣。",
+      "uncertainty": [
+        {
+          "unit_id": "f008-R-05",
+          "field": "text",
+          "char_offset_0based": 3,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f008-frame-layout-01",
+          "field": "observation",
+          "surface_text": "",
+          "note": "右左各十欄，題目有同行轉敘。部分快速雙行用量待核。中央現代水印。"
+        }
+      ]
+    },
+    {
+      "image": 9,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=9",
+      "sha256": "dea430740af392123f7366b5a0b4897de6e1a18d90ae4ab3427e1fc554dd0e7c",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "胎有水氣方續，浮腫、轉胞、漏胎。",
+      "uncertainty": []
+    },
+    {
+      "image": 10,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=10",
+      "sha256": "341b1fb5b8c86b9cec76572c671c5461f16993edba56c76f4b7b4bd7fc0efc3d",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "漏胎方續，治損諸痛。",
+      "uncertainty": []
+    },
+    {
+      "image": 11,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=11",
+      "sha256": "91c94a47b3fad22ace466ab51a1368387ec0bd119ea518dd5903b6ba6e414fc4",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "痛腫、傷寒熱病及護胎法。",
+      "uncertainty": [
+        {
+          "unit_id": "f011-L-07",
+          "field": "text",
+          "char_offset_0based": 3,
+          "surface_text": "〔鮮煉熱和〕"
+        },
+        {
+          "unit_id": "f011-frame-layout-01",
+          "field": "observation",
+          "surface_text": "",
+          "note": "兩面各十欄，左半舊紙底色較淡，細線與數位水印覆其上。左第七欄讀序及末數字待核。"
+        }
+      ]
+    },
+    {
+      "image": 12,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=12",
+      "sha256": "f4cbccaf1108c613c58c16b0692f348c48c52cc2ca19011237319ebc3fa98c0c",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "傷寒、傷風、熱病，及腳轉筋、吐利、咳嗽。",
+      "uncertainty": [
+        {
+          "unit_id": "f012-frame-layout-01",
+          "field": "observation",
+          "surface_text": "",
+          "note": "左右各十欄。橘紅旁小墨疑劑量，其次爐製字若干待核。水印覆中央。"
+        }
+      ]
+    },
+    {
+      "image": 13,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=13",
+      "sha256": "b9fd0c81d8b745e7011bbb7a3a3753b05defa8292c5b84fb2610d388ccee6a40",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "咳嗽、痰、藏燥、煩渴、腳腫及下利。",
+      "uncertainty": []
+    },
+    {
+      "image": 14,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=14",
+      "sha256": "10b149b869d5bd8d6f004a1ffe27a0505f6bdf36d25c8882502dd41263c7ce04",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "下痢、洩瀉及小產。",
+      "uncertainty": []
+    },
+    {
+      "image": 15,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=15",
+      "sha256": "85d3a52986b29bc687716f5eaf8d6df4dadf2787d42d98fb0ee310b9c6b94bd5",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "小產及安胎、滑胎。",
+      "uncertainty": [
+        {
+          "unit_id": "f015-R-02",
+          "field": "text",
+          "char_offset_0based": 8,
+          "surface_text": "〔六〕"
+        }
+      ]
+    },
+    {
+      "image": 16,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=16",
+      "sha256": "7cc91b5a96f927295dea772f3e9da1ff1bad56792c7cda480c013917e647a741",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "束胎丸、枳殼散等條。",
+      "uncertainty": [
+        {
+          "unit_id": "f016-L-09",
+          "field": "text",
+          "char_offset_0based": 8,
+          "surface_text": "□"
+        }
+      ]
+    },
+    {
+      "image": 17,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=17",
+      "sha256": "72e1c7f95cd259ce2ce5f3807664344d8fdced1cf34de05f3863d5facb393df4",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "腹中兒哭條，及妊娠服藥、飲食起居禁忌。",
+      "uncertainty": [
+        {
+          "unit_id": "f017-R-06",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "首字形下似元"
+        },
+        {
+          "unit_id": "f017-L-07",
+          "field": "text",
+          "char_offset_0based": 2,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f017-L-07",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "菰滑後筆跡淡"
+        },
+        {
+          "unit_id": "f017-L-09",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "「菌大」兩字待覆"
+        }
+      ]
+    },
+    {
+      "image": 18,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=18",
+      "sha256": "b57c61291f09109c6eaf0db65c948b586925901dbcbc15053858bc843704de8f",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "飲食起居禁忌的結尾，及臨月產室、臨產須知。",
+      "uncertainty": [
+        {
+          "unit_id": "f018-R-04",
+          "field": "text",
+          "char_offset_0based": 2,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f018-L-07",
+          "field": "text",
+          "char_offset_0based": 2,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f018-L-07",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "「臨」下局部淡缺"
+        }
+      ]
+    },
+    {
+      "image": 19,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=19",
+      "sha256": "b865368cdc2c7128982eaa010bae0b9e67e46c35e095e44bf1ce664f27cef6f0",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "臨產須知續，含備室、扶持者、弄痛與試月。",
+      "uncertainty": [
+        {
+          "unit_id": "f019-R-05",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "末似重文符，與次欄首語連讀"
+        },
+        {
+          "unit_id": "f019-R-10",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "首「痛」處有改筆"
+        },
+        {
+          "unit_id": "f019-L-07",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "前段「纔」字待覆"
+        },
+        {
+          "unit_id": "f019-L-10",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "末句可能指胎元轉尋三次，字照圖留待覆"
+        },
+        {
+          "unit_id": "f019-R-annotation-01",
+          "field": "observation",
+          "surface_text": "",
+          "note": "R10 欄首「痛」與左側同高度有深墨交疊，疑有重寫。"
+        }
+      ]
+    },
+    {
+      "image": 20,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=20",
+      "sha256": "be21e628fd96d1329d231677f089fc4b3519d27915cefbd5e7a067106c2a7470",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "臨產須知續，及催生用藥、催生藥方。",
+      "uncertainty": [
+        {
+          "unit_id": "f020-R-05",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "重文前疑「慣」，待覆"
+        },
+        {
+          "unit_id": "f020-L-03",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "「腎」及兩「性」俱待覆"
+        },
+        {
+          "unit_id": "f020-L-05",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "「華頭」待覆"
+        },
+        {
+          "unit_id": "f020-L-10",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "「益湯」待覆"
+        }
+      ]
+    },
+    {
+      "image": 21,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=21",
+      "sha256": "bd18ba7a7cbec405a922ca3e8d43b8fd5c4f9e4f15daf9ae67c0737309a29d9f",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "上卷催生方續，接第20頁末。",
+      "uncertainty": [
+        {
+          "unit_id": "f021-R-02",
+          "field": "text",
+          "char_offset_0based": 6,
+          "surface_text": "〔草〕"
+        },
+        {
+          "unit_id": "f021-L-01",
+          "field": "text",
+          "char_offset_0based": 4,
+          "surface_text": "〔方〕"
+        },
+        {
+          "unit_id": "f021-L-06",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "欄內小字「刺處〻有之」與「一云用長一尺」續讀位置待核"
+        },
+        {
+          "unit_id": "f021-L-10",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "「諸若」間筆畫可疑"
+        }
+      ]
+    },
+    {
+      "image": 22,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=22",
+      "sha256": "5491284143feb5ae020ab94a0943d39e0a0d66e7bf48dce830f23d20db878781",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "催生諸方，胎因漏血乾澀難產、徑行不產。",
+      "uncertainty": [
+        {
+          "unit_id": "f022-L-02",
+          "field": "text",
+          "char_offset_0based": 0,
+          "surface_text": "〔蜾蠃〕"
+        },
+        {
+          "unit_id": "f022-L-04",
+          "field": "text",
+          "char_offset_0based": 1,
+          "surface_text": "〔鉋〕"
+        },
+        {
+          "unit_id": "f022-L-07",
+          "field": "text",
+          "char_offset_0based": 2,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f022-L-10",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "「血酒」「坐」待核"
+        }
+      ]
+    },
+    {
+      "image": 23,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=23",
+      "sha256": "da0337366a2d4fe53ed6faa6b30ac4939502f744fc5e05464c04e7c03f130845",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "催生貼臍、洗法，暑月、寒月中產。",
+      "uncertainty": [
+        {
+          "unit_id": "f023-R-03",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "「拼湯」首字待核"
+        },
+        {
+          "unit_id": "f023-R-06",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "「拼橙」待核"
+        },
+        {
+          "unit_id": "f023-L-07",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "「朱聖」「不曰」待核"
+        },
+        {
+          "unit_id": "f023-L-08",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "歸、姜、羊肉小字單位待核"
+        }
+      ]
+    },
+    {
+      "image": 24,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=24",
+      "sha256": "2117d198d559dbab3aec4a8852498bd513d036acd5d3cd67a84c2c59611e12a9",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "上卷末，濟陰丹續、返魂丹、加味芎歸湯。",
+      "uncertainty": [
+        {
+          "unit_id": "f024-R-08",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "「龜殼」前二字似「自死」，後小字「一箇」「酥炙」需覆"
+        }
+      ]
+    },
+    {
+      "image": 25,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=25",
+      "sha256": "139712cae34e69ab87d7ff076ad9239c8935f9a4880442abccd7b36aa9fdd652",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "下卷首，題署及產難。",
+      "uncertainty": [
+        {
+          "unit_id": "f025-L-07",
+          "field": "text",
+          "char_offset_0based": 2,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f025-L-07",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "針法下兩小字淡泐"
+        }
+      ]
+    },
+    {
+      "image": 26,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=26",
+      "sha256": "34de90599d4bc010334278d816fd1865216b63e895adc2a7d6cd993bfc7b5184",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "產難續，橫倒難產、礙產。",
+      "uncertainty": [
+        {
+          "unit_id": "f026-R-02",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "「吞故紙」首字待核"
+        },
+        {
+          "unit_id": "f026-R-10",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "「按繫」待核"
+        },
+        {
+          "unit_id": "f026-L-07",
+          "field": "text",
+          "char_offset_0based": 3,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f026-L-07",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "推兒後有淡筆"
+        }
+      ]
+    },
+    {
+      "image": 27,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=27",
+      "sha256": "548fd92533c0bc2a8d3dfa85c548040e7c6542180552822f8fd1c88770ba6e2e",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "坐產、盤腸生、卧產、宿產及胎死腹中。",
+      "uncertainty": [
+        {
+          "unit_id": "f027-R-02",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "「攄」待核"
+        },
+        {
+          "unit_id": "f027-L-04",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "「產徑」次字待核"
+        },
+        {
+          "unit_id": "f027-L-07",
+          "field": "text",
+          "char_offset_0based": 3,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f027-L-08",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "「用」似夾於欄右"
+        }
+      ]
+    },
+    {
+      "image": 28,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=28",
+      "sha256": "185528a969e6328c494f83dd0ca2045d3924402d784a0d5874eb590f137d7663",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "胎死腹中及傷胎條續。",
+      "uncertainty": [
+        {
+          "unit_id": "f028-R-04",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "「泣」疑「次」"
+        },
+        {
+          "unit_id": "f028-L-07",
+          "field": "text",
+          "char_offset_0based": 2,
+          "surface_text": "□□"
+        }
+      ]
+    },
+    {
+      "image": 29,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=29",
+      "sha256": "a46266b2b4e5292e70a4ca7f7f3a3fdde2f22d052a73c69d0ed1eac23c3fb58c",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "產難母子死生之候，附驗胎及生育脉訣。",
+      "uncertainty": [
+        {
+          "unit_id": "f029-R-02",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "「左疾」後兩「女」其一疑「右」"
+        },
+        {
+          "unit_id": "f029-R-03",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "「同右」待核"
+        },
+        {
+          "unit_id": "f029-R-06",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "「高判」待核"
+        },
+        {
+          "unit_id": "f029-L-05",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "「匏」、「併查」待核"
+        },
+        {
+          "unit_id": "f029-L-07",
+          "field": "text",
+          "char_offset_0based": 3,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f029-L-07",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "「不」後跡淡"
+        }
+      ]
+    },
+    {
+      "image": 30,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=30",
+      "sha256": "7563bb4d04b2a1247d0e3e265cde70b5fae3c512ec735612b84b76f05e63c968",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "前幅芎歸湯續、經日不產、肥胎難產。",
+      "uncertainty": [
+        {
+          "unit_id": "f030-R-02",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "「陰過」疑爐製字"
+        },
+        {
+          "unit_id": "f030-R-03",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "「薑灰」待核"
+        },
+        {
+          "unit_id": "f030-R-08",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "署名次字待核"
+        },
+        {
+          "unit_id": "f030-L-03",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "「慰」待核"
+        },
+        {
+          "unit_id": "f030-L-04",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "尾旁小寫難辨"
+        },
+        {
+          "unit_id": "f030-L-06",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "「蠶露水蜓」待核"
+        },
+        {
+          "unit_id": "f030-L-07",
+          "field": "text",
+          "char_offset_0based": 3,
+          "surface_text": "□□"
+        }
+      ]
+    },
+    {
+      "image": 31,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=31",
+      "sha256": "fe1a5fefe9f7e9ca085b9947852a3d51150f6ffb400989bc5f02e1361d96f00b",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "肥胎難產續、既產及防血暈法。",
+      "uncertainty": [
+        {
+          "unit_id": "f031-L-01",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "右十已見「金銀箔」，左一重見同字"
+        },
+        {
+          "unit_id": "f031-L-02",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "「溶」及其旁似另有小字待核"
+        },
+        {
+          "unit_id": "f031-L-03",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "「他間」待核"
+        },
+        {
+          "unit_id": "f031-L-07",
+          "field": "text",
+          "char_offset_0based": 3,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f031-L-07",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "淡字；「無」重見"
+        }
+      ]
+    },
+    {
+      "image": 32,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=32",
+      "sha256": "c2425912bbe43a82e1d9f6bb805f028e0a3e28bb054e74cacb5c65715c263819",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "防血暈法及照護，胞衣不下。",
+      "uncertainty": [
+        {
+          "unit_id": "f032-L-02",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "「襯手」待核"
+        },
+        {
+          "unit_id": "f032-L-07",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "「散」旁有小「血」"
+        }
+      ]
+    },
+    {
+      "image": 33,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=33",
+      "sha256": "9ba3a6f1cf7baa881b2e5e59f76e5bf1a30361b51a604461d2b0f4e64d235445",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "胞衣不下續，花蕊石散、黒神散及產後諸症。",
+      "uncertainty": [
+        {
+          "unit_id": "f033-R-03",
+          "field": "text",
+          "char_offset_0based": 0,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f033-R-03",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "起頭待核"
+        },
+        {
+          "unit_id": "f033-R-04",
+          "field": "text",
+          "char_offset_0based": 3,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f033-R-09",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "「籠」待核"
+        },
+        {
+          "unit_id": "f033-L-07",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "白芍旁兩列小字及「三錢」待覆"
+        }
+      ]
+    },
+    {
+      "image": 34,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=34",
+      "sha256": "b7990dd2a1f36ae0a25eddb6da3e43aa44afac864f0d4db0b3de88e7f3e37ef4",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "產後諸症續、胞衣不下治法。",
+      "uncertainty": [
+        {
+          "unit_id": "f034-R-03",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "起二字與「匀」待核"
+        },
+        {
+          "unit_id": "f034-R-08",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "「以籠炷」最後一字待覆"
+        },
+        {
+          "unit_id": "f034-R-10",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "「喊」待核"
+        }
+      ]
+    },
+    {
+      "image": 35,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=35",
+      "sha256": "73c29fe1a451e2d5fcaec153084ab53c702cbd600fd82d04a5558e54f2bc15c8",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "胞衣不下及血暈。",
+      "uncertainty": [
+        {
+          "unit_id": "f035-R-01",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "「死或」兩字待核"
+        },
+        {
+          "unit_id": "f035-R-03",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "「自下」前後空格如圖"
+        },
+        {
+          "unit_id": "f035-L-07",
+          "field": "text",
+          "char_offset_0based": 3,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f035-L-08",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "「身幹」待核"
+        }
+      ]
+    },
+    {
+      "image": 36,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=36",
+      "sha256": "2b923382cd85da046e3c1537166a8165aa00d3e646dad1a352ed7a62048292a0",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "血暈辨症及方治續。",
+      "uncertainty": [
+        {
+          "unit_id": "f036-R-03",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "灌字淡"
+        },
+        {
+          "unit_id": "f036-R-06",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "「識」待核"
+        }
+      ]
+    },
+    {
+      "image": 37,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=37",
+      "sha256": "543d73cbd418bb004b084590adc68b30d84bda797e5f2049effd3393d9a8d60d",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "血暈續，產後子宮、腸不收、百疾及中風。",
+      "uncertainty": [
+        {
+          "unit_id": "f037-R-01",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "「白半夏」首字待核"
+        },
+        {
+          "unit_id": "f037-R-04",
+          "field": "text",
+          "char_offset_0based": 3,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f037-R-04",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "「黄芩」後數筆難辨"
+        },
+        {
+          "unit_id": "f037-R-08",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "「重并」待核"
+        },
+        {
+          "unit_id": "f037-L-07",
+          "field": "text",
+          "char_offset_0based": 3,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f037-L-07",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "「些」後淡墨"
+        },
+        {
+          "unit_id": "f037-L-08",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "「癰乏」「喝邪」「要」字待核"
+        }
+      ]
+    },
+    {
+      "image": 38,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=38",
+      "sha256": "12e94ee59e467f5ae3d7576fe9bab34ee8d0e814b32414d4c03140cc9205ee12",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "產後中風、中寒、感寒及傷風咳嗽。",
+      "uncertainty": [
+        {
+          "unit_id": "f038-R-03",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "首字淡"
+        },
+        {
+          "unit_id": "f038-R-05",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "欄末小字「密封」「良久」上下次序待核"
+        },
+        {
+          "unit_id": "f038-R-09",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "「甆」待覆"
+        },
+        {
+          "unit_id": "f038-L-07",
+          "field": "text",
+          "char_offset_0based": 3,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f038-L-07",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "「感寒」後淡字"
+        },
+        {
+          "unit_id": "f038-L-08",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "「內」字待核"
+        },
+        {
+          "unit_id": "f038-L-10",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "「炮」待核"
+        }
+      ]
+    },
+    {
+      "image": 39,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=39",
+      "sha256": "e1d294740f6aea7be95899ca2751df5d3881ce2422d1e7ca2919e358f7e5f6e1",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "前幅旋覆花湯續，產後喘促、遍身疼痛及寒熱。",
+      "uncertainty": [
+        {
+          "unit_id": "f039-R-01",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "麻黄下小字待核"
+        },
+        {
+          "unit_id": "f039-R-03",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "「方唯和湯」前二字待核"
+        },
+        {
+          "unit_id": "f039-R-04",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "草下淡字疑「炒」"
+        },
+        {
+          "unit_id": "f039-L-07",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "「乍寒乍熱」之「寒」極淡，待覆"
+        },
+        {
+          "unit_id": "f039-L-08",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "「流入閉」待核"
+        },
+        {
+          "unit_id": "f039-L-09",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "首字淡"
+        }
+      ]
+    },
+    {
+      "image": 40,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=40",
+      "sha256": "68ee352c728b0cb39d4770aea4ff1a21ac6867a174dc58c3b90acd4c01f1f5cc",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "寒熱辨治續，煩悶虛熱、喘促、蓐勞與汗症。",
+      "uncertainty": [
+        {
+          "unit_id": "f040-R-01",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "「炒五錢」為小寫"
+        },
+        {
+          "unit_id": "f040-R-04",
+          "field": "text",
+          "char_offset_0based": 4,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f040-R-04",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "川以下淡字"
+        },
+        {
+          "unit_id": "f040-L-01",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "「消息食下」待核"
+        },
+        {
+          "unit_id": "f040-L-04",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "腎後小寫疑「去膜筋」"
+        },
+        {
+          "unit_id": "f040-L-05",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "首小寫疑「豉」，本欄列五合"
+        },
+        {
+          "unit_id": "f040-L-07",
+          "field": "text",
+          "char_offset_0based": 3,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f040-L-07",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "題後小筆及「苦風濛」待核"
+        },
+        {
+          "unit_id": "f040-L-08",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "「遠志」下「去心」中有淡筆"
+        },
+        {
+          "unit_id": "f040-L-10",
+          "field": "reading_note",
+          "surface_text": "",
+          "note": "末「動六反」待核"
+        }
+      ]
+    },
+    {
+      "image": 41,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=41",
+      "sha256": "230a376345dfe62f3c60d7139edf03a355aeeceab37e9a75462e4a2b82b68448",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "下卷。產後汗出、虛煩、兒枕痛、虛渴。",
+      "uncertainty": [
+        {
+          "unit_id": "f041-R-01",
+          "field": "text",
+          "char_offset_0based": 15,
+          "surface_text": "〔□□〕"
+        },
+        {
+          "unit_id": "f041-R-04",
+          "field": "text",
+          "char_offset_0based": 4,
+          "surface_text": "〔不止？〕"
+        },
+        {
+          "unit_id": "f041-L-07",
+          "field": "text",
+          "char_offset_0based": 4,
+          "surface_text": "〔□□〕"
+        },
+        {
+          "unit_id": "f041-L-10",
+          "field": "text",
+          "char_offset_0based": 8,
+          "surface_text": "〔□荷散？〕"
+        }
+      ]
+    },
+    {
+      "image": 42,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=42",
+      "sha256": "1a2b6df8e23df1ee7136464c79a5376cbe1e55b72d03174f0ae627a4a71f6186",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "下卷。產後虛煩口乾、血塊與腹痛。",
+      "uncertainty": [
+        {
+          "unit_id": "f042-R-01",
+          "field": "text",
+          "char_offset_0based": 17,
+          "surface_text": "〔□〕"
+        },
+        {
+          "unit_id": "f042-R-05",
+          "field": "text",
+          "char_offset_0based": 7,
+          "surface_text": "〔□〕"
+        },
+        {
+          "unit_id": "f042-R-08",
+          "field": "text",
+          "char_offset_0based": 6,
+          "surface_text": "〔褊？〕"
+        },
+        {
+          "unit_id": "f042-L-06",
+          "field": "text",
+          "char_offset_0based": 5,
+          "surface_text": "〔□□〕"
+        },
+        {
+          "unit_id": "f042-L-08",
+          "field": "text",
+          "char_offset_0based": 10,
+          "surface_text": "〔□〕"
+        }
+      ]
+    },
+    {
+      "image": 43,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=43",
+      "sha256": "35422ec888dfd0bdc5236f4ab5676ebbdf2a0cd1e24ede26c6649bb0f03d19c4",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "下卷。產後泄瀉、發熱、兒枕痛及頭痛。左面近欄首處見斜墨筆。",
+      "uncertainty": [
+        {
+          "unit_id": "f043-R-01",
+          "field": "text",
+          "char_offset_0based": 11,
+          "surface_text": "〔便？〕"
+        },
+        {
+          "unit_id": "f043-R-01",
+          "field": "text",
+          "char_offset_0based": 17,
+          "surface_text": "〔□□〕"
+        },
+        {
+          "unit_id": "f043-R-04",
+          "field": "text",
+          "char_offset_0based": 4,
+          "surface_text": "〔□□〕"
+        },
+        {
+          "unit_id": "f043-R-04",
+          "field": "text",
+          "char_offset_0based": 11,
+          "surface_text": "〔□□〕"
+        },
+        {
+          "unit_id": "f043-R-05",
+          "field": "text",
+          "char_offset_0based": 6,
+          "surface_text": "〔□〕"
+        },
+        {
+          "unit_id": "f043-R-08",
+          "field": "text",
+          "char_offset_0based": 22,
+          "surface_text": "〔不見火？〕"
+        },
+        {
+          "unit_id": "f043-L-06",
+          "field": "text",
+          "char_offset_0based": 6,
+          "surface_text": "〔錢？〕"
+        },
+        {
+          "unit_id": "f043-L-07",
+          "field": "text",
+          "char_offset_0based": 4,
+          "surface_text": "〔日〕"
+        },
+        {
+          "unit_id": "f043-L-07",
+          "field": "text",
+          "char_offset_0based": 9,
+          "surface_text": "〔急？〕"
+        }
+      ]
+    },
+    {
+      "image": 44,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=44",
+      "sha256": "e99c1c470aaf2a739e42019e806347b3509bbb6674f2026fe8f7c30e9cfe1f99",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "下卷。產後瘧疾、腹脹嘔吐及胃氣不和。",
+      "uncertainty": [
+        {
+          "unit_id": "f044-R-01",
+          "field": "text",
+          "char_offset_0based": 11,
+          "surface_text": "〔皮〕"
+        },
+        {
+          "unit_id": "f044-R-04",
+          "field": "text",
+          "char_offset_0based": 4,
+          "surface_text": "〔□□〕"
+        },
+        {
+          "unit_id": "f044-R-04",
+          "field": "text",
+          "char_offset_0based": 10,
+          "surface_text": "〔煎〕"
+        },
+        {
+          "unit_id": "f044-R-05",
+          "field": "text",
+          "char_offset_0based": 6,
+          "surface_text": "〔□□〕"
+        },
+        {
+          "unit_id": "f044-R-06",
+          "field": "text",
+          "char_offset_0based": 7,
+          "surface_text": "〔分〕"
+        },
+        {
+          "unit_id": "f044-L-04",
+          "field": "text",
+          "char_offset_0based": 11,
+          "surface_text": "〔乾？〕"
+        },
+        {
+          "unit_id": "f044-L-06",
+          "field": "text",
+          "char_offset_0based": 6,
+          "surface_text": "〔不？〕"
+        },
+        {
+          "unit_id": "f044-L-07",
+          "field": "text",
+          "char_offset_0based": 4,
+          "surface_text": "〔姜？〕"
+        }
+      ]
+    },
+    {
+      "image": 45,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=45",
+      "sha256": "63c2c925dea55dc9a19e32ca07988275015611710671a40270de699ab841c89c",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "下卷。產後乳脈、乳汁、乳腫及乳頭破裂諸條。",
+      "uncertainty": [
+        {
+          "unit_id": "f045-L-06",
+          "field": "text",
+          "char_offset_0based": 6,
+          "surface_text": "〔？〕"
+        },
+        {
+          "unit_id": "f045-L-06",
+          "field": "text",
+          "char_offset_0based": 10,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f045-L-06",
+          "field": "text",
+          "char_offset_0based": 12,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f045-L-07",
+          "field": "text",
+          "char_offset_0based": 5,
+          "surface_text": "□□"
+        }
+      ]
+    },
+    {
+      "image": 46,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=46",
+      "sha256": "5943f8d3f6c4bc01baa373ae98958faab93b2ca22ca6ac0e72cdff3659ac4416",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "下卷。乳癰、產門不閉、陰脫及產後恍惚諸條。",
+      "uncertainty": [
+        {
+          "unit_id": "f046-R-04",
+          "field": "text",
+          "char_offset_0based": 4,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f046-R-05",
+          "field": "text",
+          "char_offset_0based": 7,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f046-R-06",
+          "field": "text",
+          "char_offset_0based": 7,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f046-L-06",
+          "field": "text",
+          "char_offset_0based": 7,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f046-L-07",
+          "field": "text",
+          "char_offset_0based": 5,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f046-L-10",
+          "field": "text",
+          "char_offset_0based": 14,
+          "surface_text": "□□"
+        }
+      ]
+    },
+    {
+      "image": 47,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=47",
+      "sha256": "fb95557fd17b857d376afe4a2aa90a39163eeee6f78efa997a29c7e9780e7c65",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "下卷。產後神志、惡露、鼻衂、浮腫及發狂諸條。",
+      "uncertainty": [
+        {
+          "unit_id": "f047-L-06",
+          "field": "text",
+          "char_offset_0based": 6,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f047-L-07",
+          "field": "text",
+          "char_offset_0based": 4,
+          "surface_text": "□"
+        }
+      ]
+    },
+    {
+      "image": 48,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=48",
+      "sha256": "f4231d09532d17f4c3b29dbe4777662d754f578557b06fbc36da93e4924c30e7",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "右面首欄為下卷卷終。次欄題廣嗣方附，後接所附諸方。",
+      "uncertainty": [
+        {
+          "unit_id": "f048-R-05",
+          "field": "text",
+          "char_offset_0based": 6,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f048-L-05",
+          "field": "text",
+          "char_offset_0based": 0,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f048-L-07",
+          "field": "text",
+          "char_offset_0based": 4,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f048-L-07",
+          "field": "text",
+          "char_offset_0based": 8,
+          "surface_text": "〔蜜？〕"
+        },
+        {
+          "unit_id": "f048-L-10",
+          "field": "text",
+          "char_offset_0based": 0,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f048-L-10",
+          "field": "text",
+          "char_offset_0based": 15,
+          "surface_text": "□□"
+        }
+      ]
+    },
+    {
+      "image": 49,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=49",
+      "sha256": "2a574597e4529e725763b766e7906bc1d8f3c68ba749d99cfce2f2b1675f1597",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "廣嗣方附續。小兒馬牙、雞鳳丸及麒麟丸等條，含傳方署款。",
+      "uncertainty": [
+        {
+          "unit_id": "f049-R-04",
+          "field": "text",
+          "char_offset_0based": 4,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f049-R-05",
+          "field": "text",
+          "char_offset_0based": 6,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f049-L-05",
+          "field": "text",
+          "char_offset_0based": 6,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f049-L-07",
+          "field": "text",
+          "char_offset_0based": 4,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f049-L-08",
+          "field": "text",
+          "char_offset_0based": 1,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f049-L-10",
+          "field": "text",
+          "char_offset_0based": 12,
+          "surface_text": "□"
+        }
+      ]
+    },
+    {
+      "image": 50,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=50",
+      "sha256": "cb2127c890e09b42eb6b8c400e53f5bb9f644e6d335190311bdd34e173f179e1",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "廣嗣方附續。五子與種玉丸諸方，左面末四欄位置空白。",
+      "uncertainty": [
+        {
+          "unit_id": "f050-R-01",
+          "field": "text",
+          "char_offset_0based": 17,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f050-R-03",
+          "field": "text",
+          "char_offset_0based": 2,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f050-R-04",
+          "field": "text",
+          "char_offset_0based": 3,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f050-R-05",
+          "field": "text",
+          "char_offset_0based": 5,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f050-R-10",
+          "field": "text",
+          "char_offset_0based": 3,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f050-L-01",
+          "field": "text",
+          "char_offset_0based": 11,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f050-L-05",
+          "field": "text",
+          "char_offset_0based": 5,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f050-L-06",
+          "field": "text",
+          "char_offset_0based": 5,
+          "surface_text": "□"
+        }
+      ]
+    },
+    {
+      "image": 51,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=51",
+      "sha256": "890233fb9f153bfc920258ee7aeea4d67fee0277605b592b995023248c6ae141",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "右面首欄另題時痘疹精粹及傳述署款，下接痘疹徵象。",
+      "uncertainty": [
+        {
+          "unit_id": "f051-R-01",
+          "field": "text",
+          "char_offset_0based": 7,
+          "surface_text": "〔閶？〕"
+        },
+        {
+          "unit_id": "f051-R-04",
+          "field": "text",
+          "char_offset_0based": 2,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f051-R-05",
+          "field": "text",
+          "char_offset_0based": 4,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f051-R-06",
+          "field": "text",
+          "char_offset_0based": 4,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f051-R-06",
+          "field": "text",
+          "char_offset_0based": 6,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f051-L-01",
+          "field": "text",
+          "char_offset_0based": 10,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f051-L-06",
+          "field": "text",
+          "char_offset_0based": 8,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f051-L-07",
+          "field": "text",
+          "char_offset_0based": 2,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f051-L-08",
+          "field": "text",
+          "char_offset_0based": 8,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f051-L-10",
+          "field": "text",
+          "char_offset_0based": 11,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f051-L-10",
+          "field": "text",
+          "char_offset_0based": 14,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f051-R-attribution-01",
+          "field": "text",
+          "char_offset_0based": 1,
+          "surface_text": "〔閶？〕"
+        }
+      ]
+    },
+    {
+      "image": 52,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=52",
+      "sha256": "370994b1eb30846e73fbfcff7bfb7774552c9475a69d3addaf811e247252733b",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "時痘疹精粹續。山根、耳後及面部斑紋與吉凶記載。",
+      "uncertainty": [
+        {
+          "unit_id": "f052-R-04",
+          "field": "text",
+          "char_offset_0based": 4,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f052-R-05",
+          "field": "text",
+          "char_offset_0based": 5,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f052-R-06",
+          "field": "text",
+          "char_offset_0based": 6,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f052-R-07",
+          "field": "text",
+          "char_offset_0based": 7,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f052-L-05",
+          "field": "text",
+          "char_offset_0based": 5,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f052-L-06",
+          "field": "text",
+          "char_offset_0based": 7,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f052-L-07",
+          "field": "text",
+          "char_offset_0based": 3,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f052-L-09",
+          "field": "text",
+          "char_offset_0based": 1,
+          "surface_text": "□"
+        }
+      ]
+    },
+    {
+      "image": 53,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=53",
+      "sha256": "35b80f6ca97a914ca39da73cab0ba80608a73559ccda1ad1c50b452d80aefce6",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "時痘疹精粹續。耳後紋樣、色澤及發病先後。",
+      "uncertainty": [
+        {
+          "unit_id": "f053-R-04",
+          "field": "text",
+          "char_offset_0based": 4,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f053-R-05",
+          "field": "text",
+          "char_offset_0based": 5,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f053-R-06",
+          "field": "text",
+          "char_offset_0based": 6,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f053-R-07",
+          "field": "text",
+          "char_offset_0based": 7,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f053-R-08",
+          "field": "text",
+          "char_offset_0based": 7,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f053-R-10",
+          "field": "text",
+          "char_offset_0based": 10,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f053-L-03",
+          "field": "text",
+          "char_offset_0based": 8,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f053-L-07",
+          "field": "text",
+          "char_offset_0based": 3,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f053-L-09",
+          "field": "text",
+          "char_offset_0based": 1,
+          "surface_text": "□"
+        }
+      ]
+    },
+    {
+      "image": 54,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=54",
+      "sha256": "4ee43124bf6aa2aa135045a2fc40ce1807fd2fcc66644936ccc2bcf22c841499",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "時痘疹精粹續。耳後、眼下及眼珠紋色與病勢。",
+      "uncertainty": [
+        {
+          "unit_id": "f054-R-04",
+          "field": "text",
+          "char_offset_0based": 2,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f054-R-05",
+          "field": "text",
+          "char_offset_0based": 5,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f054-R-07",
+          "field": "text",
+          "char_offset_0based": 6,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f054-R-08",
+          "field": "text",
+          "char_offset_0based": 7,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f054-L-01",
+          "field": "text",
+          "char_offset_0based": 10,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f054-L-02",
+          "field": "text",
+          "char_offset_0based": 8,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f054-L-06",
+          "field": "text",
+          "char_offset_0based": 5,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f054-L-07",
+          "field": "text",
+          "char_offset_0based": 2,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f054-L-07",
+          "field": "text",
+          "char_offset_0based": 7,
+          "surface_text": "□□"
+        }
+      ]
+    },
+    {
+      "image": 55,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=55",
+      "sha256": "4626aada365212872f18d2f5874b657828773fc49a92667a79a8c508f5f5d60f",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "時痘疹精粹續。眼胞、眼角紋候。",
+      "uncertainty": [
+        {
+          "unit_id": "f055-R-04",
+          "field": "text",
+          "char_offset_0based": 4,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f055-R-04",
+          "field": "text",
+          "char_offset_0based": 8,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f055-R-06",
+          "field": "text",
+          "char_offset_0based": 4,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f055-L-01",
+          "field": "text",
+          "char_offset_0based": 9,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f055-L-05",
+          "field": "text",
+          "char_offset_0based": 4,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f055-L-07",
+          "field": "text",
+          "char_offset_0based": 2,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f055-L-07",
+          "field": "text",
+          "char_offset_0based": 7,
+          "surface_text": "□□"
+        }
+      ]
+    },
+    {
+      "image": 56,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=56",
+      "sha256": "526e18dff4b1af0d4f0d8cfc52154fb3b8dad82fb7c224edfb72aeb67ff16beb",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "時痘疹精粹續。左面另見解毒丹、稀痘方及痘疹論三個欄首。",
+      "uncertainty": [
+        {
+          "unit_id": "f056-R-04",
+          "field": "text",
+          "char_offset_0based": 3,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f056-R-05",
+          "field": "text",
+          "char_offset_0based": 4,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f056-R-06",
+          "field": "text",
+          "char_offset_0based": 4,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f056-L-03",
+          "field": "text",
+          "char_offset_0based": 8,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f056-L-04",
+          "field": "text",
+          "char_offset_0based": 9,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f056-L-07",
+          "field": "text",
+          "char_offset_0based": 8,
+          "surface_text": "□"
+        }
+      ]
+    },
+    {
+      "image": 57,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=57",
+      "sha256": "679091e02f612bc3b558aef274ca1ac8774ee4e1bb027c657d79f195aab5f04b",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "痘疹論續。自然染病及其他古代病因說、症候、調護與歷史方藥。",
+      "uncertainty": [
+        {
+          "unit_id": "f057-R-03",
+          "field": "text",
+          "char_offset_0based": 9,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f057-R-04",
+          "field": "text",
+          "char_offset_0based": 4,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f057-R-07",
+          "field": "text",
+          "char_offset_0based": 8,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f057-R-08",
+          "field": "text",
+          "char_offset_0based": 8,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f057-R-09",
+          "field": "text",
+          "char_offset_0based": 9,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f057-R-10",
+          "field": "text",
+          "char_offset_0based": 10,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f057-L-01",
+          "field": "text",
+          "char_offset_0based": 11,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f057-L-02",
+          "field": "text",
+          "char_offset_0based": 9,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f057-L-03",
+          "field": "text",
+          "char_offset_0based": 8,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f057-L-04",
+          "field": "text",
+          "char_offset_0based": 8,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f057-L-05",
+          "field": "text",
+          "char_offset_0based": 6,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f057-L-07",
+          "field": "text",
+          "char_offset_0based": 4,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f057-L-07",
+          "field": "text",
+          "char_offset_0based": 9,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f057-L-09",
+          "field": "text",
+          "char_offset_0based": 2,
+          "surface_text": "□"
+        }
+      ]
+    },
+    {
+      "image": 58,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=58",
+      "sha256": "14ba084b19e275e08d1a081300a05549171d0a486029298a674a684b676bd750",
+      "scan_width": 1887,
+      "scan_height": 1307,
+      "summary": "痘疹論續。歷史方藥及照護，左面前三欄有字，再左為空白。全件止於此幅。",
+      "uncertainty": [
+        {
+          "unit_id": "f058-R-04",
+          "field": "text",
+          "char_offset_0based": 3,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f058-R-05",
+          "field": "text",
+          "char_offset_0based": 5,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f058-R-06",
+          "field": "text",
+          "char_offset_0based": 0,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f058-R-06",
+          "field": "text",
+          "char_offset_0based": 6,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f058-R-07",
+          "field": "text",
+          "char_offset_0based": 8,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f058-R-08",
+          "field": "text",
+          "char_offset_0based": 7,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f058-R-09",
+          "field": "text",
+          "char_offset_0based": 9,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f058-L-02",
+          "field": "text",
+          "char_offset_0based": 9,
+          "surface_text": "□"
+        }
+      ]
+    }
+  ]
+}
