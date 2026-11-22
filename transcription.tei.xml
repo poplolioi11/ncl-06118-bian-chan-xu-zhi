@@ -10,10 +10,10 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition>0.1.0</edition>
+        <edition>0.2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <p>2026-11-22. AI-assisted initial transcription with source references and marked uncertainties. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.</p>
+        <p>2026-11-22. All 58 images received an image review and a selective rereading of inscriptions, headings, marginal writing and difficult characters. 11 image-supported changes are documented. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.</p>
       </publicationStmt>
       <sourceDesc>
         <p>臺灣國家圖書館 06118 <ref target="https://catalog.digitalarchives.tw/item/00/08/67/7b.html">Source catalogue</ref>
@@ -267,7 +267,7 @@
           <ab type="main_text" n="f010-R-02" xml:id="u-f010-R-02" xml:lang="lzh">胎無故下血腹痛不可忍或下黃汁如漆如水如豆汁者</ab>
           <ab type="main_text" n="f010-R-03" xml:id="u-f010-R-03" xml:lang="lzh">青苧二兩紋銀五兩水酒各一盞煎服</ab>
           <ab type="section_heading" n="f010-R-04" xml:id="u-f010-R-04" xml:lang="lzh">治損諸痛</ab>
-          <ab type="main_text" n="f010-R-05" xml:id="u-f010-R-05" xml:lang="lzh">妊娠有傷腹痛不安或從高墜下重物所壓觸動胎元</ab>
+          <ab type="main_text" n="f010-R-05" xml:id="u-f010-R-05" xml:lang="lzh">妊娠因有傷腹痛不安或從高墜下重物所壓觸動胎元</ab>
           <ab type="main_text" n="f010-R-06" xml:id="u-f010-R-06" xml:lang="lzh">痛不可忍及下血者後方甚妙</ab>
           <ab type="main_text" n="f010-R-07" xml:id="u-f010-R-07" xml:lang="lzh">縮砂不拘多少和皮略炒令十分黑色去皮取仁為末</ab>
           <ab type="main_text" n="f010-R-08" xml:id="u-f010-R-08" xml:lang="lzh">熱酒調服不飲酒者米飲調下艾湯鹽湯亦可覺胎中熱</ab>
@@ -352,7 +352,7 @@
           <ab type="main_text" n="f013-R-06" xml:id="u-f013-R-06" xml:lang="lzh">阿膠炒水煎入水梨汁同服有痰加竹茹一捻</ab>
           <ab type="main_text" n="f013-R-07" xml:id="u-f013-R-07" xml:lang="lzh">妊娠痰疾良薑白朮草果陳皮藿香砂仁</ab>
           <ab type="main_text" n="f013-R-08" xml:id="u-f013-R-08" xml:lang="lzh">白茯苓炙甘草薑棗煎服已上出擿玄</ab>
-          <ab type="main_text" n="f013-R-09" xml:id="u-f013-R-09" xml:lang="lzh">妊娠藏燥甘麥大棗湯症具金匱</ab>
+          <ab type="main_text" n="f013-R-09" xml:id="u-f013-R-09" xml:lang="lzh">妊娠臟燥甘麥大棗湯症具金匱</ab>
           <ab type="main_text" n="f013-R-10" xml:id="u-f013-R-10" xml:lang="lzh">妊娠煩渴引飲致腹脹身腫不能飲澤瀉葶藶各二</ab>
           <note type="editorial">f013-frame-layout-01 右左各十欄。R10 末接 L01 首補劑量字，原處分錄。中央現代水印。</note>
         </div>
@@ -505,7 +505,7 @@
       </div>
       <div n="19" type="scan" corresp="https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=19">
         <div type="surface" n="R">
-          <ab type="main_text" n="f019-R-01" xml:id="u-f019-R-01" xml:lang="lzh">一諸般不得喧鬧房中常要緊閉</ab>
+          <ab type="main_text" n="f019-R-01" xml:id="u-f019-R-01" xml:lang="lzh">一諸般不得喧閙房中常要緊閉</ab>
           <ab type="main_text" n="f019-R-02" xml:id="u-f019-R-02" xml:lang="lzh">一外來閑雜婦人孝服穢污等人預宜杜絕產後客氣犯</ab>
           <ab type="main_text" n="f019-R-03" xml:id="u-f019-R-03" xml:lang="lzh">子亦大有損</ab>
           <ab type="main_text" n="f019-R-04" xml:id="u-f019-R-04" xml:lang="lzh">一宜擇年高歷練穩婆及純謹親密三四人扶持</ab>
@@ -573,7 +573,7 @@
           <note type="editorial">f021-frame-layout-01 右一首「服」接前幅左末「五苓散」。左右各十欄，方中夾寫與本文並見。</note>
         </div>
         <div type="surface" n="L">
-          <ab type="main_text" n="f021-L-01" xml:id="u-f021-L-01" xml:lang="lzh">催生萬金〔方〕萆麻子去殼研細塗兩足心產下即洗去</ab>
+          <ab type="main_text" n="f021-L-01" xml:id="u-f021-L-01" xml:lang="lzh">催生万金膏萆麻子去殼研細塗兩足心產下即洗去</ab>
           <ab type="main_text" n="f021-L-02" xml:id="u-f021-L-02" xml:lang="lzh">久遲或不去即腸出如腸出又取此藥貼頭頂心用百粒</ab>
           <ab type="main_text" n="f021-L-03" xml:id="u-f021-L-03" xml:lang="lzh">不妨</ab>
           <ab type="mixed_heading_and_text" n="f021-L-04" xml:id="u-f021-L-04" xml:lang="lzh">如聖散黄葵花三錢焙干無花用子亦可半合好當歸三錢焙干為末</ab>
@@ -1180,7 +1180,7 @@
           <ab type="main_text" n="f044-R-07" xml:id="u-f044-R-07" xml:lang="lzh">芍每五錢水煎服</ab>
           <ab type="mixed_heading_and_text" n="f044-R-08" xml:id="u-f044-R-08" xml:lang="lzh">胸高不寬　川芎　當歸　白芍　砂仁　香附　白术</ab>
           <ab type="main_text" n="f044-R-09" xml:id="u-f044-R-09" xml:lang="lzh">陳皮　甘草　半夏　茯苓　水二盞姜三片</ab>
-          <ab type="main_text" n="f044-R-10" xml:id="u-f044-R-10" xml:lang="lzh">胃氣不和嘔吐不止不納飲食宜服和胃散　訶子肉一兩</ab>
+          <ab type="main_text" n="f044-R-10" xml:id="u-f044-R-10" xml:lang="lzh">胃氣不和嘔吐不止不納飲食宜服開胃散　訶子肉一兩</ab>
           <note type="editorial">f044-R-layout-01 「陳〔皮〕」「熟地」處筆畫殘淡。</note>
           <note type="editorial">f044-R-layout-02 「腹脹嘔」與芍藥之間殘淡。</note>
         </div>
@@ -1255,7 +1255,7 @@
       <div n="47" type="scan" corresp="https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=47">
         <div type="surface" n="R">
           <ab type="main_text" n="f047-R-01" xml:id="u-f047-R-01" xml:lang="lzh">勻勻服得睡即安此方仍治產後四肢浮腫</ab>
-          <ab type="mixed_heading_and_text" n="f047-R-02" xml:id="u-f047-R-02" xml:lang="lzh">產後血暈閇亂心神恍惚如見鬼神　生益母草汁三合</ab>
+          <ab type="mixed_heading_and_text" n="f047-R-02" xml:id="u-f047-R-02" xml:lang="lzh">產後血暈悶亂心神恍惚如見鬼神　生益母草汁三合</ab>
           <ab type="main_text" n="f047-R-03" xml:id="u-f047-R-03" xml:lang="lzh">如干者即用二兩勿犯鉄器　生地黃汁二合童便一合雞子清去黃</ab>
           <ab type="main_text" n="f047-R-04" xml:id="u-f047-R-04" xml:lang="lzh">三枚先煎　後入雞子清攪勻作一服</ab>
           <ab type="main_text" n="f047-R-05" xml:id="u-f047-R-05" xml:lang="lzh">產後驚狂如見鬼　四物湯加茯神升麻人參青黛各五錢</ab>
@@ -1293,7 +1293,7 @@
           <ab type="main_text" n="f048-R-06" xml:id="u-f048-R-06" xml:lang="lzh">濃汁一二蜆殻許和二味抹兒上膛用及乳母乳頭上</ab>
           <ab type="main_text" n="f048-R-07" xml:id="u-f048-R-07" xml:lang="lzh">令兒吮之一日內盡為度次日大便遺下胎毒終身無</ab>
           <ab type="main_text" n="f048-R-08" xml:id="u-f048-R-08" xml:lang="lzh">癖病之痘生一子得一子十分妙方也</ab>
-          <ab type="mixed_heading_and_text" n="f048-R-09" xml:id="u-f048-R-09" xml:lang="lzh">大效神功消毒保嬰丹　凡小兒未出痘瘡每遇交春分</ab>
+          <ab type="mixed_heading_and_text" n="f048-R-09" xml:id="u-f048-R-09" xml:lang="lzh">大効神功消毒保嬰丹　凡小兒未出痘瘡每遇交春分</ab>
           <ab type="main_text" n="f048-R-10" xml:id="u-f048-R-10" xml:lang="lzh">秋分時服一丸其痘毒能消化若只服一次亦得減少若</ab>
           <note type="editorial">f048-R-section_boundary-01 下卷卷尾獨立占右面首欄。</note>
           <note type="editorial">f048-R-section_boundary-02 次欄另題廣嗣方附，下一欄始方文。</note>
@@ -1348,7 +1348,7 @@
           <ab type="main_text" n="f050-R-01" xml:id="u-f050-R-01" xml:lang="lzh">藥各四兩　乳香三兩　為細末煉蜜丸服□□日偕合如赤小</ab>
           <ab type="main_text" n="f050-R-02" xml:id="u-f050-R-02" xml:lang="lzh">豆大每服十丸有勁如男子服之補益孕婦服之護胎</ab>
           <ab type="main_text" n="f050-R-03" xml:id="u-f050-R-03" xml:lang="lzh">無孕□即有孕空心好酒送下無夫者不可服</ab>
-          <ab type="mixed_heading_and_text" n="f050-R-04" xml:id="u-f050-R-04" xml:lang="lzh">五子徵□　古今第一種子方以藥性極平穩之故</ab>
+          <ab type="mixed_heading_and_text" n="f050-R-04" xml:id="u-f050-R-04" xml:lang="lzh">五子衍宗　古今第一種子方以藥性極平穩之故</ab>
           <ab type="main_text" n="f050-R-05" xml:id="u-f050-R-05" xml:lang="lzh">甘州枸杞八□　五味二兩研碎　兔絲子八兩酒蒸車前子</ab>
           <ab type="main_text" n="f050-R-06" xml:id="u-f050-R-06" xml:lang="lzh">二兩　覆盆子酒洗　右藥焙晒干為細末煉蜜丸空心</ab>
           <ab type="main_text" n="f050-R-07" xml:id="u-f050-R-07" xml:lang="lzh">服九十丸上牀時五十丸春夏蓮心或鹽湯下冬日溫酒</ab>
@@ -1376,9 +1376,9 @@
       </div>
       <div n="51" type="scan" corresp="https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf#page=51">
         <div type="surface" n="R">
-          <ab type="title" n="f051-R-01" xml:id="u-f051-R-01" xml:lang="lzh">時痘疹精粹　金〔閶？〕葉天士先生祕傳</ab>
+          <ab type="title" n="f051-R-01" xml:id="u-f051-R-01" xml:lang="lzh">時痘疹精粹　金閶葉天士先生祕傳</ab>
           <note type="small-writing" target="#u-f051-R-01">時痘疹精粹</note>
-          <note type="small-writing" target="#u-f051-R-01">金〔閶？〕葉天士先生祕傳</note>
+          <note type="small-writing" target="#u-f051-R-01">金閶葉天士先生祕傳</note>
           <ab type="main_text" n="f051-R-02" xml:id="u-f051-R-02" xml:lang="lzh">小兒頭前常現青黑斑點者乃腎之候也其候出痘必枯</ab>
           <ab type="main_text" n="f051-R-03" xml:id="u-f051-R-03" xml:lang="lzh">陷而不青必不能救矣</ab>
           <ab type="main_text" n="f051-R-04" xml:id="u-f051-R-04" xml:lang="lzh">面前□一地位常現青黑斑點者肝也青乃肝之色</ab>
@@ -1413,7 +1413,7 @@
           <ab type="main_text" n="f052-R-05" xml:id="u-f052-R-05" xml:lang="lzh">色出痘時必□滿而死不能治也</ab>
           <ab type="main_text" n="f052-R-06" xml:id="u-f052-R-06" xml:lang="lzh">四角白色者　□外金而內土金盛土衰痘後必作</ab>
           <ab type="main_text" n="f052-R-07" xml:id="u-f052-R-07" xml:lang="lzh">瀉喘渴而死其候□蒸三日而出先見痘于面口角處</ab>
-          <ab type="main_text" n="f052-R-08" xml:id="u-f052-R-08" xml:lang="lzh">是痘名金裏銀也</ab>
+          <ab type="main_text" n="f052-R-08" xml:id="u-f052-R-08" xml:lang="lzh">是痘名金裹銀也</ab>
           <ab type="main_text" n="f052-R-09" xml:id="u-f052-R-09" xml:lang="lzh">耳後紋大者紫小者赤此為重痘若出痘時必稠密黑陷</ab>
           <ab type="main_text" n="f052-R-10" xml:id="u-f052-R-10" xml:lang="lzh">而死</ab>
           <note type="editorial">f052-R-layout-01 此欄只有「而死」兩字，欄下空白。</note>
@@ -1586,7 +1586,7 @@
         <div type="surface" n="L">
           <ab type="main_text" n="f058-L-01" xml:id="u-f058-L-01" xml:lang="lzh">汗不妨蓋由濕熱薰蒸之故</ab>
           <ab type="main_text" n="f058-L-02" xml:id="u-f058-L-02" xml:lang="lzh">若痘疹初起煩躁譫語□渴引飲若飲止則後來靨不齊</ab>
-          <ab type="main_text" n="f058-L-03" xml:id="u-f058-L-03" xml:lang="lzh">急以涼藥解其標</ab>
+          <ab type="main_text" n="f058-L-03" xml:id="u-f058-L-03" xml:lang="lzh">急以凉藥解其標</ab>
           <note type="editorial">f058-L-blank_area-01 第三欄以左約七個慣常欄位寬度空白，未設虛擬正文欄。</note>
           <note type="editorial">f058-L-layout-01 末一欄在上半短行止於「解其標」，下方及左側空白。</note>
         </div>

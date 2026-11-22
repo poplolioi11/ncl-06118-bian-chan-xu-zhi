@@ -1,0 +1,3391 @@
+{
+  "initial_sha256": "86291381c9b6ceb5fe0167d855745e75e078e505952a34876c4070109651c300",
+  "method_zh": "58幅均獨立盤點書面與有字欄，選讀題記、條首、夾注及模糊字，比對初錄並以原圖裁定。覆核為逐幅選讀，未製作獨立全文二稿。部分第001–020幅條首曾在格式整合時讀到。保留疑讀與原字。",
+  "method_en": "All 58 images received a separate layout inventory and selected readings, focusing on inscriptions, headings, annotations and difficult characters. Proposed changes were checked against the scan. This is selective rereading of every image, rather than a second full transcription. Some headings in images 001–020 were seen during format inspection.",
+  "frames_reviewed": [
+    {
+      "frame": 1,
+      "image_sha256": "4d778247cb69aaafee5c7fb84407b1a32a07063a5f5c81698c903bfe2708a6f5",
+      "column_counts": {
+        "R": 0,
+        "L": 10
+      },
+      "layout": "左面為小序。右面空白，左面灰底略有條紋。末兩枚有形篆印分別定位。",
+      "image_readings": [
+        {
+          "evidence_id": "f001-E-01",
+          "column": "L01",
+          "candidate_unit_id": "f001-L-01",
+          "layer": "title",
+          "bbox_approx_xywh_px": [
+            850,
+            153,
+            85,
+            374
+          ],
+          "reading": "鈔便產須知小序",
+          "image_observation": "欄獨立，下方有長空距。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f001-E-02",
+          "column": "L02",
+          "candidate_unit_id": "f001-L-02",
+          "layer": "dateline",
+          "bbox_approx_xywh_px": [
+            787,
+            148,
+            78,
+            668
+          ],
+          "reading": "道光甲午余居梅心涇之第九年也",
+          "image_observation": "「涇」較淡。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f001-E-03",
+          "column": "L04",
+          "candidate_unit_id": "f001-L-04",
+          "layer": "small_text",
+          "bbox_approx_xywh_px": [
+            627,
+            568,
+            96,
+            646
+          ],
+          "reading": "先是旱廿餘月七月廿三日大風雨至廿六日稍止平地水深尺許",
+          "image_observation": "插入小字有窄雙行，讀序從右細行轉左。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f001-E-04",
+          "column": "L08",
+          "candidate_unit_id": "f001-L-08",
+          "layer": "small_text",
+          "bbox_approx_xywh_px": [
+            334,
+            224,
+            87,
+            278
+          ],
+          "reading": "起七月廿六至八月二日畢",
+          "image_observation": "右細行由「起」至「至」，左細行接「八月」。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f001-E-05",
+          "column": "L01",
+          "candidate_unit_id": "f001-L-01",
+          "layer": "seal",
+          "bbox_approx_xywh_px": [
+            870,
+            908,
+            77,
+            119
+          ],
+          "reading": null,
+          "image_observation": "淺色直長方印，外框、篆線可見。",
+          "status": "nontextual_feature"
+        },
+        {
+          "evidence_id": "f001-E-06",
+          "column": "L01",
+          "candidate_unit_id": "f001-L-01",
+          "layer": "seal",
+          "bbox_approx_xywh_px": [
+            868,
+            1093,
+            79,
+            89
+          ],
+          "reading": null,
+          "image_observation": "較下方另見近方形淡印。",
+          "status": "nontextual_feature"
+        }
+      ]
+    },
+    {
+      "frame": 2,
+      "image_sha256": "ee836106e7b0b5958ebbf788ba24a004ec678e872ee49f3c6735fbadbc5eb3cb",
+      "column_counts": {
+        "R": 2,
+        "L": 0
+      },
+      "layout": "只見右面最外側二欄，左面空白。右上邊緣一小灰角。",
+      "image_readings": [
+        {
+          "evidence_id": "f002-E-01",
+          "column": "R01",
+          "candidate_unit_id": "f002-R-01",
+          "layer": "colophon",
+          "bbox_approx_xywh_px": [
+            1614,
+            583,
+            84,
+            612
+          ],
+          "reading": "八月初五日庭中水退書於西齋飯",
+          "image_observation": "延至下欄接「香」。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f002-E-02",
+          "column": "R02",
+          "candidate_unit_id": "f002-R-02",
+          "layer": "attribution",
+          "bbox_approx_xywh_px": [
+            1558,
+            158,
+            81,
+            581
+          ],
+          "reading": "香道人道根識時年四十有七",
+          "image_observation": "「飯香道人」跨前欄末。",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 3,
+      "image_sha256": "dc6667114932c93fec53d7ca4b35dc3b40d3ffdc5cb45b6d8a2ca830391a9045",
+      "column_counts": {
+        "R": 0,
+        "L": 10
+      },
+      "layout": "左面為上卷卷首，左面第一欄有書者、自署及一枚方篆印，右面空白。",
+      "image_readings": [
+        {
+          "evidence_id": "f003-E-01",
+          "column": "L01",
+          "candidate_unit_id": "f003-L-01",
+          "layer": "volume_title",
+          "bbox_approx_xywh_px": [
+            851,
+            123,
+            93,
+            305
+          ],
+          "reading": "便產須知上卷",
+          "image_observation": "同欄題下留較大間距。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f003-E-02",
+          "column": "L01",
+          "candidate_unit_id": "f003-L-01",
+          "layer": "attribution",
+          "bbox_approx_xywh_px": [
+            855,
+            597,
+            79,
+            444
+          ],
+          "reading": "飯香老人潘道根手鈔",
+          "image_observation": "書者署於卷題下。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f003-E-03",
+          "column": "L02",
+          "candidate_unit_id": "f003-L-02",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            791,
+            228,
+            68,
+            112
+          ],
+          "reading": "調經",
+          "image_observation": "兩字一單獨短欄。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f003-E-04",
+          "column": "L01",
+          "candidate_unit_id": "f003-L-01",
+          "layer": "seal",
+          "bbox_approx_xywh_px": [
+            873,
+            1041,
+            73,
+            128
+          ],
+          "reading": null,
+          "image_observation": "署末下方一長方篆印，留待辨印文。",
+          "status": "nontextual_feature"
+        }
+      ]
+    },
+    {
+      "frame": 4,
+      "image_sha256": "d8ceb039c6b3ed7ed5d4b313de4271ee35332d09ef9bb08782cd2165801a54c4",
+      "column_counts": {
+        "R": 10,
+        "L": 10
+      },
+      "layout": "兩面連讀，右面調經散見獨列方名，小字多穿插於藥名之側。",
+      "image_readings": [
+        {
+          "evidence_id": "f004-E-01",
+          "column": "R06",
+          "candidate_unit_id": "f004-R-06",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            1260,
+            147,
+            84,
+            259
+          ],
+          "reading": "月候不調",
+          "image_observation": "同欄下文接「或在月前月後」。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f004-E-02",
+          "column": "R08",
+          "candidate_unit_id": "f004-R-08",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            1125,
+            135,
+            79,
+            170
+          ],
+          "reading": "調經散",
+          "image_observation": "方名短欄。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f004-E-03",
+          "column": "R09",
+          "candidate_unit_id": "f004-R-09",
+          "layer": "small_text",
+          "bbox_approx_xywh_px": [
+            1048,
+            248,
+            77,
+            107
+          ],
+          "reading": "一兩酒洗",
+          "image_observation": "「當歸」下兩細行。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f004-E-04",
+          "column": "L03",
+          "candidate_unit_id": "f004-L-03",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            725,
+            226,
+            77,
+            471
+          ],
+          "reading": "月經過期不行血寒血少故也",
+          "image_observation": "欄上另起「又」。",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 5,
+      "image_sha256": "8e07fc7bdc7751557322f9d1cb7ddebbb6fff5345eb04e628959b3a00266b2c7",
+      "column_counts": {
+        "R": 10,
+        "L": 10
+      },
+      "layout": "惡阻單獨成短欄，左面末欄「又參橘飲散」以下有窄雙行文字及簽名。",
+      "image_readings": [
+        {
+          "evidence_id": "f005-E-01",
+          "column": "R05",
+          "candidate_unit_id": "f005-R-05",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            1328,
+            195,
+            74,
+            106
+          ],
+          "reading": "惡阻",
+          "image_observation": "兩字居欄上段。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f005-E-02",
+          "column": "L10",
+          "candidate_unit_id": "f005-L-10",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            195,
+            138,
+            96,
+            263
+          ],
+          "reading": "又參橘飲散",
+          "image_observation": "大字寫至散，下方改用小字。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f005-E-03",
+          "column": "L10",
+          "candidate_unit_id": "f005-L-10",
+          "layer": "attribution",
+          "bbox_approx_xywh_px": [
+            207,
+            1024,
+            50,
+            181
+          ],
+          "reading": "潘道根記",
+          "image_observation": "左股小字最末。",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 6,
+      "image_sha256": "9f013fa1a469cc1f74442b51a413b2a9b28cda13968e95a9734ee76515224fdc",
+      "column_counts": {
+        "R": 10,
+        "L": 10
+      },
+      "layout": "兩面有正文，三短題分居不同欄，右面欄位有細行製法注。",
+      "image_readings": [
+        {
+          "evidence_id": "f006-E-01",
+          "column": "R04",
+          "candidate_unit_id": "f006-R-04",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            1411,
+            145,
+            64,
+            233
+          ],
+          "reading": "青竹茹湯",
+          "image_observation": "同欄後接方義。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f006-E-02",
+          "column": "R07",
+          "candidate_unit_id": "f006-R-07",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            1195,
+            241,
+            68,
+            114
+          ],
+          "reading": "驗胎",
+          "image_observation": "單題短欄。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f006-E-03",
+          "column": "L03",
+          "candidate_unit_id": "f006-L-03",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            717,
+            250,
+            81,
+            111
+          ],
+          "reading": "安胎",
+          "image_observation": "單題短欄。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f006-E-04",
+          "column": "L07",
+          "candidate_unit_id": "f006-L-07",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            441,
+            145,
+            72,
+            173
+          ],
+          "reading": "安胎飲",
+          "image_observation": "同欄下接所治。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f006-E-05",
+          "column": "R05",
+          "candidate_unit_id": "f006-R-05",
+          "layer": "small_text",
+          "bbox_approx_xywh_px": [
+            1321,
+            724,
+            77,
+            103
+          ],
+          "reading": "湯泡七次",
+          "image_observation": "半夏旁製法字，分雙行。",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 7,
+      "image_sha256": "636f66993f49b185fd8dea8030bd542a3b3fbc7cb6c58e53bfc1a18e537755da",
+      "column_counts": {
+        "R": 10,
+        "L": 10
+      },
+      "layout": "右面作前條之續，左面見固胎飲及胎動短條，小字劑量多從側分行。",
+      "image_readings": [
+        {
+          "evidence_id": "f007-E-01",
+          "column": "R06",
+          "candidate_unit_id": "f007-R-06",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            1326,
+            154,
+            79,
+            181
+          ],
+          "reading": "胎動不安",
+          "image_observation": "「安」字筆較淡，後接「好銀」。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f007-E-02",
+          "column": "L02",
+          "candidate_unit_id": "f007-L-02",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            794,
+            150,
+            84,
+            254
+          ],
+          "reading": "固胎飲心法",
+          "image_observation": "心法偏小，承接方名。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f007-E-03",
+          "column": "L07",
+          "candidate_unit_id": "f007-L-07",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            441,
+            148,
+            72,
+            565
+          ],
+          "reading": "胎動沖心煩悶欲死安胎止痛",
+          "image_observation": "同欄由症狀接治目。",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 8,
+      "image_sha256": "761eab821086e9b335f44991e970cfdec37ca65ecf48c64b24c77435a15d60dc",
+      "column_counts": {
+        "R": 10,
+        "L": 10
+      },
+      "layout": "右面胎氣、子懸，左面子煩、子淋及胎有水氣；左面中部有短欄。",
+      "image_readings": [
+        {
+          "evidence_id": "f008-E-01",
+          "column": "R08",
+          "candidate_unit_id": "f008-R-08",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            1114,
+            153,
+            75,
+            105
+          ],
+          "reading": "子懸",
+          "image_observation": "同欄稍下接「妊六七月懷胎」。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f008-E-02",
+          "column": "L01",
+          "candidate_unit_id": "f008-L-01",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            867,
+            148,
+            74,
+            127
+          ],
+          "reading": "子煩",
+          "image_observation": "欄首兩字。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f008-E-03",
+          "column": "L04",
+          "candidate_unit_id": "f008-L-04",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            644,
+            154,
+            75,
+            124
+          ],
+          "reading": "子淋",
+          "image_observation": "欄首兩字。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f008-E-04",
+          "column": "L08",
+          "candidate_unit_id": "f008-L-08",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            352,
+            151,
+            84,
+            415
+          ],
+          "reading": "妊娠腹大胎有水氣",
+          "image_observation": "其方換下一欄。",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 9,
+      "image_sha256": "dea430740af392123f7366b5a0b4897de6e1a18d90ae4ab3427e1fc554dd0e7c",
+      "column_counts": {
+        "R": 10,
+        "L": 10
+      },
+      "layout": "中縫有一對細豎線，可見兩葉界。兩面多次標「方」，左面末有佛手散。",
+      "image_readings": [
+        {
+          "evidence_id": "f009-E-01",
+          "column": "R03",
+          "candidate_unit_id": "f009-R-03",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            1473,
+            168,
+            81,
+            296
+          ],
+          "reading": "妊娠通身浮腫",
+          "image_observation": "欄下接山梔。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f009-E-02",
+          "column": "R04",
+          "candidate_unit_id": "f009-R-04",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            1396,
+            165,
+            83,
+            504
+          ],
+          "reading": "轉胞　妊娠小便不利是也",
+          "image_observation": "題下稍留白。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f009-E-03",
+          "column": "R05",
+          "candidate_unit_id": "f009-R-05",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            1325,
+            165,
+            78,
+            111
+          ],
+          "reading": "漏胎",
+          "image_observation": "簡短二字，接述懷胎。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f009-E-04",
+          "column": "L03",
+          "candidate_unit_id": "f009-L-03",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            725,
+            159,
+            82,
+            198
+          ],
+          "reading": "漏胎下血",
+          "image_observation": "左面條首。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f009-E-05",
+          "column": "L09",
+          "candidate_unit_id": "f009-L-09",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            307,
+            753,
+            64,
+            217
+          ],
+          "reading": "佛手散",
+          "image_observation": "同欄近末。",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 10,
+      "image_sha256": "341b1fb5b8c86b9cec76572c671c5461f16993edba56c76f4b7b4bd7fc0efc3d",
+      "column_counts": {
+        "R": 10,
+        "L": 10
+      },
+      "layout": "右面第四欄短題上部漫漶，左面數處製法、數量以小字書於側。",
+      "image_readings": [
+        {
+          "evidence_id": "f010-E-01",
+          "column": "R04",
+          "candidate_unit_id": "f010-R-04",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            1416,
+            325,
+            71,
+            151
+          ],
+          "reading": "諸痛",
+          "image_observation": "題首上方還有兩個較淡字。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f010-E-02",
+          "column": "R05",
+          "candidate_unit_id": "f010-R-05",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            1340,
+            168,
+            81,
+            273
+          ],
+          "reading": "妊娠因有傷腹痛",
+          "image_observation": "後接不安。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f010-E-03",
+          "column": "L03",
+          "candidate_unit_id": "f010-L-03",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            715,
+            164,
+            78,
+            573
+          ],
+          "reading": "妊娠三五月忽心腹療痛舊方",
+          "image_observation": "「療」的形體待覆。",
+          "status": "image_candidate"
+        },
+        {
+          "evidence_id": "f010-E-04",
+          "column": "L09",
+          "candidate_unit_id": "f010-L-09",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            299,
+            806,
+            57,
+            172
+          ],
+          "reading": "枳殼散",
+          "image_observation": "同欄末見方名。",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 11,
+      "image_sha256": "91c94a47b3fad22ace466ab51a1368387ec0bd119ea518dd5903b6ba6e414fc4",
+      "column_counts": {
+        "R": 10,
+        "L": 10
+      },
+      "layout": "右面續傷寒，左面時氣熱病護胎法另作短欄。",
+      "image_readings": [
+        {
+          "evidence_id": "f011-E-01",
+          "column": "R04",
+          "candidate_unit_id": "f011-R-04",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            1395,
+            161,
+            74,
+            323
+          ],
+          "reading": "妊娠傷寒熱病",
+          "image_observation": "後接防損胎。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f011-E-02",
+          "column": "R08",
+          "candidate_unit_id": "f011-R-08",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            1109,
+            150,
+            71,
+            220
+          ],
+          "reading": "傷寒安胎",
+          "image_observation": "欄下列白木等。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f011-E-03",
+          "column": "L02",
+          "candidate_unit_id": "f011-L-02",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            795,
+            157,
+            68,
+            352
+          ],
+          "reading": "傷寒大熱悶亂燥渴",
+          "image_observation": "下接恐傷胎。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f011-E-04",
+          "column": "L05",
+          "candidate_unit_id": "f011-L-05",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            583,
+            149,
+            69,
+            344
+          ],
+          "reading": "時氣熱病護胎法",
+          "image_observation": "獨列短題。",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 12,
+      "image_sha256": "f4cbccaf1108c613c58c16b0692f348c48c52cc2ca19011237319ebc3fa98c0c",
+      "column_counts": {
+        "R": 10,
+        "L": 10
+      },
+      "layout": "右面妊娠傷寒、熱病諸條，左面腳轉筋、吐利、咳嗽。",
+      "image_readings": [
+        {
+          "evidence_id": "f012-E-01",
+          "column": "R06",
+          "candidate_unit_id": "f012-R-06",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            1256,
+            220,
+            71,
+            145
+          ],
+          "reading": "香蘇散",
+          "image_observation": "單列三字。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f012-E-02",
+          "column": "R07",
+          "candidate_unit_id": "f012-R-07",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            1195,
+            167,
+            67,
+            440
+          ],
+          "reading": "妊娠熱病六七日極者",
+          "image_observation": "下由胎兒字樣接敘。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f012-E-03",
+          "column": "L04",
+          "candidate_unit_id": "f012-L-04",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            651,
+            156,
+            81,
+            269
+          ],
+          "reading": "妊娠脚轉筋",
+          "image_observation": "後接成因。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f012-E-04",
+          "column": "L08",
+          "candidate_unit_id": "f012-L-08",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            364,
+            166,
+            74,
+            388
+          ],
+          "reading": "妊娠傷風咳嗽不已",
+          "image_observation": "欄中下段另見華蓋散。",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 13,
+      "image_sha256": "b9fd0c81d8b745e7011bbb7a3a3753b05defa8292c5b84fb2610d388ccee6a40",
+      "column_counts": {
+        "R": 10,
+        "L": 10
+      },
+      "layout": "右面首欄「後服」兩字以下空白；右面有咳嗽、臟燥和煩渴，左面腳腫及下利。",
+      "image_readings": [
+        {
+          "evidence_id": "f013-E-01",
+          "column": "R01",
+          "candidate_unit_id": "f013-R-01",
+          "layer": "continuation",
+          "bbox_approx_xywh_px": [
+            1615,
+            186,
+            71,
+            108
+          ],
+          "reading": "後服",
+          "image_observation": "承接前幅末語。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f013-E-02",
+          "column": "R09",
+          "candidate_unit_id": "f013-R-09",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            1023,
+            157,
+            75,
+            189
+          ],
+          "reading": "妊娠臟燥",
+          "image_observation": "後見甘麥大棗湯。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f013-E-03",
+          "column": "R10",
+          "candidate_unit_id": "f013-R-10",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            956,
+            157,
+            79,
+            347
+          ],
+          "reading": "妊娠煩渴引飲",
+          "image_observation": "同欄續述身腫，欄尾澤瀉。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f013-E-04",
+          "column": "L02",
+          "candidate_unit_id": "f013-L-02",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            798,
+            161,
+            73,
+            300
+          ],
+          "reading": "妊娠脚腫脹滿",
+          "image_observation": "後面一個尾字較難。",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 14,
+      "image_sha256": "10b149b869d5bd8d6f004a1ffe27a0505f6bdf36d25c8882502dd41263c7ce04",
+      "column_counts": {
+        "R": 10,
+        "L": 10
+      },
+      "layout": "左面置小產短題，次欄開始正文；右中有僅一個字的獨立續欄。",
+      "image_readings": [
+        {
+          "evidence_id": "f014-E-01",
+          "column": "R01",
+          "candidate_unit_id": "f014-R-01",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            1616,
+            172,
+            80,
+            662
+          ],
+          "reading": "妊娠下痢赤白腸鳴後重穀道疼痛",
+          "image_observation": "右起首欄。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f014-E-02",
+          "column": "R05",
+          "candidate_unit_id": "f014-R-05",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            1333,
+            163,
+            73,
+            234
+          ],
+          "reading": "臨產痢疾",
+          "image_observation": "方藥接在同欄。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f014-E-03",
+          "column": "L04",
+          "candidate_unit_id": "f014-L-04",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            661,
+            262,
+            66,
+            106
+          ],
+          "reading": "小產",
+          "image_observation": "短題，上方有留白。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f014-E-04",
+          "column": "L05",
+          "candidate_unit_id": "f014-L-05",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            579,
+            164,
+            83,
+            235
+          ],
+          "reading": "小產重於大產",
+          "image_observation": "開始解述「將息」。",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 15,
+      "image_sha256": "85d3a52986b29bc687716f5eaf8d6df4dadf2787d42d98fb0ee310b9c6b94bd5",
+      "column_counts": {
+        "R": 10,
+        "L": 10
+      },
+      "layout": "小產後血下及腹痛，上述諸方繼至安胎飲，再起滑胎。",
+      "image_readings": [
+        {
+          "evidence_id": "f015-E-01",
+          "column": "R03",
+          "candidate_unit_id": "f015-R-03",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            1465,
+            179,
+            72,
+            364
+          ],
+          "reading": "小產後血下久不止",
+          "image_observation": "右面第三欄。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f015-E-02",
+          "column": "R06",
+          "candidate_unit_id": "f015-R-06",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            1254,
+            181,
+            75,
+            363
+          ],
+          "reading": "小產後心腹疼痛",
+          "image_observation": "欄腰下接當歸。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f015-E-03",
+          "column": "L01",
+          "candidate_unit_id": "f015-L-01",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            857,
+            171,
+            78,
+            503
+          ],
+          "reading": "妊娠五七个月宜用安胎飲",
+          "image_observation": "个原字保留。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f015-E-04",
+          "column": "L06",
+          "candidate_unit_id": "f015-L-06",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            512,
+            163,
+            80,
+            519
+          ],
+          "reading": "滑胎用達生散即束胎前",
+          "image_observation": "下接胎前宜多服，連讀的界線待覆。",
+          "status": "image_candidate"
+        }
+      ]
+    },
+    {
+      "frame": 16,
+      "image_sha256": "7cc91b5a96f927295dea772f3e9da1ff1bad56792c7cda480c013917e647a741",
+      "column_counts": {
+        "R": 10,
+        "L": 10
+      },
+      "layout": "右面開始束胎丸諸方與滑胎，左面商州枳殼方和瘦胎方。",
+      "image_readings": [
+        {
+          "evidence_id": "f016-E-01",
+          "column": "R01",
+          "candidate_unit_id": "f016-R-01",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            1596,
+            185,
+            72,
+            565
+          ],
+          "reading": "束胎丸八个月宜服心法古方",
+          "image_observation": "獨立縱題。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f016-E-02",
+          "column": "R09",
+          "candidate_unit_id": "f016-R-09",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            1030,
+            157,
+            70,
+            326
+          ],
+          "reading": "妊娠八九月胎氣",
+          "image_observation": "下接常服枳殼散。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f016-E-03",
+          "column": "L01",
+          "candidate_unit_id": "f016-L-01",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            847,
+            158,
+            79,
+            231
+          ],
+          "reading": "商州枳殼",
+          "image_observation": "下有麩皮製法小字。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f016-E-04",
+          "column": "L07",
+          "candidate_unit_id": "f016-L-07",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            437,
+            596,
+            70,
+            536
+          ],
+          "reading": "瘦胎易產臨月服極有神效",
+          "image_observation": "同欄上另承接前語。",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 17,
+      "image_sha256": "72e1c7f95cd259ce2ce5f3807664344d8fdced1cf34de05f3863d5facb393df4",
+      "column_counts": {
+        "R": 10,
+        "L": 10
+      },
+      "layout": "右面見腹中兒哭、服藥禁忌與飲食起居禁忌。飲食條延至左面。",
+      "image_readings": [
+        {
+          "evidence_id": "f017-E-01",
+          "column": "R01",
+          "candidate_unit_id": "f017-R-01",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            1610,
+            167,
+            83,
+            299
+          ],
+          "reading": "治兒在腹中哭",
+          "image_observation": "同欄以下接舊說。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f017-E-02",
+          "column": "R05",
+          "candidate_unit_id": "f017-R-05",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            1322,
+            158,
+            79,
+            306
+          ],
+          "reading": "妊娠服藥禁忌",
+          "image_observation": "下方空白；所列內容轉至左側數欄。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f017-E-03",
+          "column": "R10",
+          "candidate_unit_id": "f017-R-10",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            958,
+            147,
+            82,
+            328
+          ],
+          "reading": "飲食起居禁忌",
+          "image_observation": "六字縱排。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f017-E-04",
+          "column": "L10",
+          "candidate_unit_id": "f017-L-10",
+          "layer": "continuation",
+          "bbox_approx_xywh_px": [
+            218,
+            147,
+            89,
+            302
+          ],
+          "reading": "雀腦令子雀目",
+          "image_observation": "左面末短欄。",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 18,
+      "image_sha256": "b57c61291f09109c6eaf0db65c948b586925901dbcbc15053858bc843704de8f",
+      "column_counts": {
+        "R": 10,
+        "L": 10
+      },
+      "layout": "中縫兩側連文，產室、須知各獨立短題。左面若干「一」字起新條。",
+      "image_readings": [
+        {
+          "evidence_id": "f018-E-01",
+          "column": "R05",
+          "candidate_unit_id": "f018-R-05",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            1334,
+            258,
+            69,
+            200
+          ],
+          "reading": "臨月產室",
+          "image_observation": "置於右面第 5 欄。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f018-E-02",
+          "column": "R06",
+          "candidate_unit_id": "f018-R-06",
+          "layer": "continuation",
+          "bbox_approx_xywh_px": [
+            1263,
+            151,
+            62,
+            285
+          ],
+          "reading": "冬末春初天寒",
+          "image_observation": "緊接產室題。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f018-E-03",
+          "column": "L05",
+          "candidate_unit_id": "f018-L-05",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            585,
+            253,
+            72,
+            207
+          ],
+          "reading": "臨產須知",
+          "image_observation": "置左面。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f018-E-04",
+          "column": "L08",
+          "candidate_unit_id": "f018-L-08",
+          "layer": "item_lead",
+          "bbox_approx_xywh_px": [
+            369,
+            165,
+            79,
+            360
+          ],
+          "reading": "一十月已滿陰陽氣足",
+          "image_observation": "欄首的「一」作條次。",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 19,
+      "image_sha256": "b865368cdc2c7128982eaa010bae0b9e67e46c35e095e44bf1ce664f27cef6f0",
+      "column_counts": {
+        "R": 10,
+        "L": 10
+      },
+      "layout": "臨產各條以前置「一」起首。左面多個短欄，上部有疑似描複墨痕。",
+      "image_readings": [
+        {
+          "evidence_id": "f019-E-01",
+          "column": "R01",
+          "candidate_unit_id": "f019-R-01",
+          "layer": "item_lead",
+          "bbox_approx_xywh_px": [
+            1609,
+            185,
+            83,
+            314
+          ],
+          "reading": "一諸般不得喧閙",
+          "image_observation": "右面首則。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f019-E-02",
+          "column": "R04",
+          "candidate_unit_id": "f019-R-04",
+          "layer": "item_excerpt",
+          "bbox_approx_xywh_px": [
+            1390,
+            669,
+            81,
+            415
+          ],
+          "reading": "純謹親密三四人扶持",
+          "image_observation": "文在同欄後半。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f019-E-03",
+          "column": "R10",
+          "candidate_unit_id": "f019-R-10",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            948,
+            286,
+            90,
+            212
+          ],
+          "reading": "名曰弄痛非當產也",
+          "image_observation": "「弄痛」供跨欄校對。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f019-E-04",
+          "column": "L01",
+          "candidate_unit_id": "f019-L-01",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            855,
+            453,
+            87,
+            329
+          ],
+          "reading": "名曰試月非當產也",
+          "image_observation": "接上一欄末。",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 20,
+      "image_sha256": "be21e628fd96d1329d231677f089fc4b3519d27915cefbd5e7a067106c2a7470",
+      "column_counts": {
+        "R": 10,
+        "L": 10
+      },
+      "layout": "右面逐項列臨產條目，左面後半轉催生用藥，最左欄另列催生藥方。",
+      "image_readings": [
+        {
+          "evidence_id": "f020-E-01",
+          "column": "R02",
+          "candidate_unit_id": "f020-R-02",
+          "layer": "item_lead",
+          "bbox_approx_xywh_px": [
+            1536,
+            184,
+            75,
+            391
+          ],
+          "reading": "一臨產須惜力調養",
+          "image_observation": "「一」在欄頂。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f020-E-02",
+          "column": "R08",
+          "candidate_unit_id": "f020-R-08",
+          "layer": "continuation",
+          "bbox_approx_xywh_px": [
+            1100,
+            158,
+            70,
+            636
+          ],
+          "reading": "胎已離經兒逼產門却進催生藥",
+          "image_observation": "右面第八欄。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f020-E-03",
+          "column": "L04",
+          "candidate_unit_id": "f020-L-04",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            635,
+            156,
+            81,
+            365
+          ],
+          "reading": "催生用藥之法有四",
+          "image_observation": "下接分則。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f020-E-04",
+          "column": "L10",
+          "candidate_unit_id": "f020-L-10",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            220,
+            164,
+            86,
+            204
+          ],
+          "reading": "催生藥方",
+          "image_observation": "同欄後接暑月起文。",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 21,
+      "image_sha256": "bd18ba7a7cbec405a922ca3e8d43b8fd5c4f9e4f15daf9ae67c0737309a29d9f",
+      "column_counts": {
+        "R": 10,
+        "L": 10
+      },
+      "layout": "上卷催生方延續。右面末欄僅四字，左面有多個列方的細字附註。",
+      "image_readings": [
+        {
+          "evidence_id": "f021-E-01",
+          "column": "R02",
+          "candidate_unit_id": "f021-R-02",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            1536,
+            187,
+            82,
+            236
+          ],
+          "reading": "一方如神散",
+          "image_observation": "欄上方。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f021-E-02",
+          "column": "R06",
+          "candidate_unit_id": "f021-R-06",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            1251,
+            165,
+            76,
+            244
+          ],
+          "reading": "催生乳香膏",
+          "image_observation": "同欄續方。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f021-E-03",
+          "column": "R10",
+          "candidate_unit_id": "f021-R-10",
+          "layer": "continuation",
+          "bbox_approx_xywh_px": [
+            960,
+            163,
+            66,
+            206
+          ],
+          "reading": "日合亦可",
+          "image_observation": "前欄跨接而來，以下空白。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f021-E-04",
+          "column": "L01",
+          "candidate_unit_id": "f021-L-01",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            868,
+            152,
+            73,
+            257
+          ],
+          "reading": "催生萬金膏",
+          "image_observation": "「膏」字較小在旁下。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f021-E-05",
+          "column": "L04",
+          "candidate_unit_id": "f021-L-04",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            651,
+            162,
+            78,
+            151
+          ],
+          "reading": "如聖散",
+          "image_observation": "同欄下見劑量小字。",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 22,
+      "image_sha256": "5491284143feb5ae020ab94a0943d39e0a0d66e7bf48dce830f23d20db878781",
+      "column_counts": {
+        "R": 10,
+        "L": 10
+      },
+      "layout": "多個催生方名置於欄首，左面多條各占一欄或跨欄。",
+      "image_readings": [
+        {
+          "evidence_id": "f022-E-01",
+          "column": "R02",
+          "candidate_unit_id": "f022-R-02",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            1528,
+            183,
+            82,
+            153
+          ],
+          "reading": "催生丹",
+          "image_observation": "同欄續「治生理不順」。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f022-E-02",
+          "column": "R06",
+          "candidate_unit_id": "f022-R-06",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            1246,
+            172,
+            76,
+            168
+          ],
+          "reading": "黃金散",
+          "image_observation": "欄後藥名側有細字。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f022-E-03",
+          "column": "R07",
+          "candidate_unit_id": "f022-R-07",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            1176,
+            171,
+            79,
+            218
+          ],
+          "reading": "石竹花湯",
+          "image_observation": "方名下再書「石竹花」。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f022-E-04",
+          "column": "L04",
+          "candidate_unit_id": "f022-L-04",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            645,
+            154,
+            88,
+            226
+          ],
+          "reading": "千鎚草散",
+          "image_observation": "欄首字形「鎚」待覆。",
+          "status": "image_candidate"
+        },
+        {
+          "evidence_id": "f022-E-05",
+          "column": "L09",
+          "candidate_unit_id": "f022-L-09",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            293,
+            163,
+            76,
+            170
+          ],
+          "reading": "通靈散",
+          "image_observation": "下接方文。",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 23,
+      "image_sha256": "da0337366a2d4fe53ed6faa6b30ac4939502f744fc5e05464c04e7c03f130845",
+      "column_counts": {
+        "R": 10,
+        "L": 10
+      },
+      "layout": "右面催生貼臍、洗法。左面分暑月中產和寒月中產，末欄長題。",
+      "image_readings": [
+        {
+          "evidence_id": "f023-E-01",
+          "column": "R01",
+          "candidate_unit_id": "f023-R-01",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            1599,
+            172,
+            81,
+            312
+          ],
+          "reading": "催生有貼臍法",
+          "image_observation": "欄中另見方名。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f023-E-02",
+          "column": "R05",
+          "candidate_unit_id": "f023-R-05",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            1310,
+            166,
+            80,
+            255
+          ],
+          "reading": "催生有洗法",
+          "image_observation": "同欄稍下接另一方。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f023-E-03",
+          "column": "L01",
+          "candidate_unit_id": "f023-L-01",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            852,
+            149,
+            70,
+            203
+          ],
+          "reading": "暑月中產",
+          "image_observation": "同欄後方有大空距。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f023-E-04",
+          "column": "L05",
+          "candidate_unit_id": "f023-L-05",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            564,
+            254,
+            84,
+            195
+          ],
+          "reading": "寒月中產",
+          "image_observation": "四字短欄。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f023-E-05",
+          "column": "L10",
+          "candidate_unit_id": "f023-L-10",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            212,
+            151,
+            73,
+            182
+          ],
+          "reading": "濟陰丹",
+          "image_observation": "欄下接專治產難等語。",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 24,
+      "image_sha256": "2117d198d559dbab3aec4a8852498bd513d036acd5d3cd67a84c2c59611e12a9",
+      "column_counts": {
+        "R": 10,
+        "L": 0
+      },
+      "layout": "右面十欄續文，左面整片空白。末欄有淡小字，頁間卷界接下一幅。",
+      "image_readings": [
+        {
+          "evidence_id": "f024-E-01",
+          "column": "R06",
+          "candidate_unit_id": "f024-R-06",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            1241,
+            571,
+            74,
+            163
+          ],
+          "reading": "返魂丹",
+          "image_observation": "同欄下段「方名」後。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f024-E-02",
+          "column": "R07",
+          "candidate_unit_id": "f024-R-07",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            1175,
+            145,
+            84,
+            273
+          ],
+          "reading": "加味芎歸湯",
+          "image_observation": "署方名在欄首。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f024-E-03",
+          "column": "R10",
+          "candidate_unit_id": "f024-R-10",
+          "layer": "continuation",
+          "bbox_approx_xywh_px": [
+            966,
+            143,
+            76,
+            280
+          ],
+          "reading": "死胎生胎立下",
+          "image_observation": "正文之後留小字。",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 25,
+      "image_sha256": "139712cae34e69ab87d7ff076ad9239c8935f9a4880442abccd7b36aa9fdd652",
+      "column_counts": {
+        "R": 0,
+        "L": 10
+      },
+      "layout": "下卷卷首單見左面，題下同欄署名。右面整片空白。",
+      "image_readings": [
+        {
+          "evidence_id": "f025-E-01",
+          "column": "L01",
+          "candidate_unit_id": "f025-L-01",
+          "layer": "volume_title",
+          "bbox_approx_xywh_px": [
+            869,
+            126,
+            76,
+            312
+          ],
+          "reading": "便產須知下卷",
+          "image_observation": "首欄上段。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f025-E-02",
+          "column": "L01",
+          "candidate_unit_id": "f025-L-01",
+          "layer": "attribution",
+          "bbox_approx_xywh_px": [
+            871,
+            619,
+            70,
+            425
+          ],
+          "reading": "飯香老人潘道根手鈔",
+          "image_observation": "卷題下留大段空距再書。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f025-E-03",
+          "column": "L02",
+          "candidate_unit_id": "f025-L-02",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            798,
+            232,
+            81,
+            115
+          ],
+          "reading": "產難",
+          "image_observation": "左面次欄短題。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f025-E-04",
+          "column": "L07",
+          "candidate_unit_id": "f025-L-07",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            439,
+            143,
+            67,
+            116
+          ],
+          "reading": "針法",
+          "image_observation": "同欄下有淡字。",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 26,
+      "image_sha256": "34de90599d4bc010334278d816fd1865216b63e895adc2a7d6cd993bfc7b5184",
+      "column_counts": {
+        "R": 10,
+        "L": 10
+      },
+      "layout": "右面首欄接前幅，橫倒難產、礙產依次。左有「又法」另起。",
+      "image_readings": [
+        {
+          "evidence_id": "f026-E-01",
+          "column": "R02",
+          "candidate_unit_id": "f026-R-02",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            1533,
+            172,
+            72,
+            201
+          ],
+          "reading": "橫倒難產",
+          "image_observation": "下留短空距。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f026-E-02",
+          "column": "R06",
+          "candidate_unit_id": "f026-R-06",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            1254,
+            153,
+            79,
+            399
+          ],
+          "reading": "橫產不順子死腹中",
+          "image_observation": "欄首至中上段。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f026-E-03",
+          "column": "R08",
+          "candidate_unit_id": "f026-R-08",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            1102,
+            146,
+            81,
+            120
+          ],
+          "reading": "礙產",
+          "image_observation": "原字可見石旁。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f026-E-04",
+          "column": "L02",
+          "candidate_unit_id": "f026-L-02",
+          "layer": "item_lead",
+          "bbox_approx_xywh_px": [
+            793,
+            149,
+            77,
+            104
+          ],
+          "reading": "又法",
+          "image_observation": "左面另起一條。",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 27,
+      "image_sha256": "548fd92533c0bc2a8d3dfa85c548040e7c6542180552822f8fd1c88770ba6e2e",
+      "column_counts": {
+        "R": 10,
+        "L": 10
+      },
+      "layout": "右面坐產、盤腸產。臥產、宿產及兩方居左面。",
+      "image_readings": [
+        {
+          "evidence_id": "f027-E-01",
+          "column": "R01",
+          "candidate_unit_id": "f027-R-01",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            1598,
+            171,
+            82,
+            111
+          ],
+          "reading": "坐產",
+          "image_observation": "下留空距後起文。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f027-E-02",
+          "column": "R04",
+          "candidate_unit_id": "f027-R-04",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            1389,
+            163,
+            74,
+            147
+          ],
+          "reading": "盤腸產",
+          "image_observation": "第三字下筆較淡。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f027-E-03",
+          "column": "L02",
+          "candidate_unit_id": "f027-L-02",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            792,
+            143,
+            83,
+            124
+          ],
+          "reading": "臥產",
+          "image_observation": "欄首兩字。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f027-E-04",
+          "column": "L04",
+          "candidate_unit_id": "f027-L-04",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            648,
+            144,
+            85,
+            128
+          ],
+          "reading": "宿產",
+          "image_observation": "緊接「產經曰」。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f027-E-05",
+          "column": "L06",
+          "candidate_unit_id": "f027-L-06",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            514,
+            149,
+            72,
+            158
+          ],
+          "reading": "牡丹丸",
+          "image_observation": "欄腰另起列藥。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f027-E-06",
+          "column": "L09",
+          "candidate_unit_id": "f027-L-09",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            290,
+            160,
+            84,
+            159
+          ],
+          "reading": "奪命散",
+          "image_observation": "欄首。",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 28,
+      "image_sha256": "185528a969e6328c494f83dd0ca2045d3924402d784a0d5874eb590f137d7663",
+      "column_counts": {
+        "R": 10,
+        "L": 10
+      },
+      "layout": "右面多個方名與胎死腹中條，左面列續方，末欄有益母草文字。",
+      "image_readings": [
+        {
+          "evidence_id": "f028-E-01",
+          "column": "R01",
+          "candidate_unit_id": "f028-R-01",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            1592,
+            170,
+            85,
+            165
+          ],
+          "reading": "養正丹",
+          "image_observation": "緊接數字。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f028-E-02",
+          "column": "R03",
+          "candidate_unit_id": "f028-R-03",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            1462,
+            167,
+            75,
+            274
+          ],
+          "reading": "千金神造湯",
+          "image_observation": "以下接藥名。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f028-E-03",
+          "column": "R07",
+          "candidate_unit_id": "f028-R-07",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            1175,
+            163,
+            79,
+            304
+          ],
+          "reading": "胎死腹中",
+          "image_observation": "續「因打撲」。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f028-E-04",
+          "column": "R09",
+          "candidate_unit_id": "f028-R-09",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            1023,
+            159,
+            76,
+            181
+          ],
+          "reading": "平胃散",
+          "image_observation": "欄首三字。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f028-E-05",
+          "column": "L04",
+          "candidate_unit_id": "f028-L-04",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            651,
+            169,
+            79,
+            207
+          ],
+          "reading": "胞不下",
+          "image_observation": "同欄聯寫「坐草早不產」。",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 29,
+      "image_sha256": "a46266b2b4e5292e70a4ca7f7f3a3fdde2f22d052a73c69d0ed1eac23c3fb58c",
+      "column_counts": {
+        "R": 10,
+        "L": 10
+      },
+      "layout": "右首題用一整長欄，說脈、色候與生死。左面見兩則末段醫案與方藥。",
+      "image_readings": [
+        {
+          "evidence_id": "f029-E-01",
+          "column": "R01",
+          "candidate_unit_id": "f029-R-01",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            1605,
+            183,
+            78,
+            810
+          ],
+          "reading": "產難母子死生之候　附驗胎及生育脈訣",
+          "image_observation": "同欄中段空距表示附題。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f029-E-02",
+          "column": "R10",
+          "candidate_unit_id": "f029-R-10",
+          "layer": "body_excerpt",
+          "bbox_approx_xywh_px": [
+            1041,
+            157,
+            72,
+            352
+          ],
+          "reading": "沈細附骨不絶生",
+          "image_observation": "短欄以下空白。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f029-E-03",
+          "column": "L01",
+          "candidate_unit_id": "f029-L-01",
+          "layer": "body_excerpt",
+          "bbox_approx_xywh_px": [
+            938,
+            156,
+            94,
+            448
+          ],
+          "reading": "母面赤舌青者母活子死",
+          "image_observation": "圖有上下兩小段。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f029-E-04",
+          "column": "L08",
+          "candidate_unit_id": "f029-L-08",
+          "layer": "body_excerpt",
+          "bbox_approx_xywh_px": [
+            376,
+            151,
+            71,
+            791
+          ],
+          "reading": "產五七日不下垂死者及產婦交骨不開者",
+          "image_observation": "後接較側小字。",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 30,
+      "image_sha256": "7563bb4d04b2a1247d0e3e265cde70b5fae3c512ec735612b84b76f05e63c968",
+      "column_counts": {
+        "R": 10,
+        "L": 10
+      },
+      "layout": "胎死腹中諸方及肥胎難產。左面末欄連到下幅。",
+      "image_readings": [
+        {
+          "evidence_id": "f030-E-01",
+          "column": "R02",
+          "candidate_unit_id": "f030-R-02",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            1536,
+            386,
+            77,
+            175
+          ],
+          "reading": "雲母散",
+          "image_observation": "同欄下接雲母石。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f030-E-02",
+          "column": "R05",
+          "candidate_unit_id": "f030-R-05",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            1316,
+            158,
+            72,
+            501
+          ],
+          "reading": "產數日子死腹中不出",
+          "image_observation": "後接母氣欲絶。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f030-E-03",
+          "column": "R08",
+          "candidate_unit_id": "f030-R-08",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            1111,
+            150,
+            77,
+            149
+          ],
+          "reading": "牛膝丸",
+          "image_observation": "方名在欄首。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f030-E-04",
+          "column": "L10",
+          "candidate_unit_id": "f030-L-10",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            226,
+            153,
+            83,
+            217
+          ],
+          "reading": "肥胎難產",
+          "image_observation": "同欄後有描述。",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 31,
+      "image_sha256": "fe1a5fefe9f7e9ca085b9947852a3d51150f6ffb400989bc5f02e1361d96f00b",
+      "column_counts": {
+        "R": 10,
+        "L": 10
+      },
+      "layout": "中央一條濃黑豎界。右面方藥，左面進入既產與防血暈法。",
+      "image_readings": [
+        {
+          "evidence_id": "f031-E-01",
+          "column": "R02",
+          "candidate_unit_id": "f031-R-02",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            1541,
+            181,
+            78,
+            255
+          ],
+          "reading": "保生無憂散",
+          "image_observation": "欄首五字。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f031-E-02",
+          "column": "R09",
+          "candidate_unit_id": "f031-R-09",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            1029,
+            151,
+            80,
+            280
+          ],
+          "reading": "霹靂奪命丹",
+          "image_observation": "欄首五字。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f031-E-03",
+          "column": "L04",
+          "candidate_unit_id": "f031-L-04",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            651,
+            163,
+            81,
+            109
+          ],
+          "reading": "既產",
+          "image_observation": "同欄下以「一」開始產畢條。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f031-E-04",
+          "column": "L09",
+          "candidate_unit_id": "f031-L-09",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            304,
+            174,
+            78,
+            210
+          ],
+          "reading": "防血暈法",
+          "image_observation": "欄頭四字。",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 32,
+      "image_sha256": "c2425912bbe43a82e1d9f6bb805f028e0a3e28bb054e74cacb5c65715c263819",
+      "column_counts": {
+        "R": 10,
+        "L": 10
+      },
+      "layout": "中央一條濃黑豎界，兩面為產後照護，左面半幅起胞衣不下。",
+      "image_readings": [
+        {
+          "evidence_id": "f032-E-01",
+          "column": "R02",
+          "candidate_unit_id": "f032-R-02",
+          "layer": "item_lead",
+          "bbox_approx_xywh_px": [
+            1540,
+            203,
+            85,
+            217
+          ],
+          "reading": "一夏月宜房外",
+          "image_observation": "右面次欄。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f032-E-02",
+          "column": "R05",
+          "candidate_unit_id": "f032-R-05",
+          "layer": "item_lead",
+          "bbox_approx_xywh_px": [
+            1313,
+            414,
+            80,
+            218
+          ],
+          "reading": "一產後須臾",
+          "image_observation": "同欄上方承前文。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f032-E-03",
+          "column": "L03",
+          "candidate_unit_id": "f032-L-03",
+          "layer": "body_excerpt",
+          "bbox_approx_xywh_px": [
+            722,
+            164,
+            83,
+            455
+          ],
+          "reading": "十日內不可勞力過度",
+          "image_observation": "欄中止後空白。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f032-E-04",
+          "column": "L04",
+          "candidate_unit_id": "f032-L-04",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            655,
+            160,
+            78,
+            214
+          ],
+          "reading": "胞衣不下",
+          "image_observation": "同欄以下接書云。",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 33,
+      "image_sha256": "9ba3a6f1cf7baa881b2e5e59f76e5bf1a30361b51a604461d2b0f4e64d235445",
+      "column_counts": {
+        "R": 10,
+        "L": 10
+      },
+      "layout": "胞衣不下從右首續文，右面有花蕊石散，左面黑神散與數項適用情形。",
+      "image_readings": [
+        {
+          "evidence_id": "f033-E-01",
+          "column": "R05",
+          "candidate_unit_id": "f033-R-05",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            1303,
+            723,
+            82,
+            199
+          ],
+          "reading": "花蕊石散",
+          "image_observation": "欄末先列方名，次欄才起列藥。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f033-E-02",
+          "column": "L06",
+          "candidate_unit_id": "f033-L-06",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            517,
+            157,
+            79,
+            164
+          ],
+          "reading": "黑神散",
+          "image_observation": "欄首三字。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f033-E-03",
+          "column": "L09",
+          "candidate_unit_id": "f033-L-09",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            300,
+            208,
+            79,
+            398
+          ],
+          "reading": "產後十一症內多用前藥治之",
+          "image_observation": "下列若干項。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f033-E-04",
+          "column": "L10",
+          "candidate_unit_id": "f033-L-10",
+          "layer": "item_excerpt",
+          "bbox_approx_xywh_px": [
+            226,
+            322,
+            78,
+            228
+          ],
+          "reading": "三胞衣不下",
+          "image_observation": "同欄還見四、五、六數條。",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 34,
+      "image_sha256": "b7990dd2a1f36ae0a25eddb6da3e43aa44afac864f0d4db0b3de88e7f3e37ef4",
+      "column_counts": {
+        "R": 10,
+        "L": 10
+      },
+      "layout": "右面承前幅數條，另起胞衣不下治法，左面續列各方。",
+      "image_readings": [
+        {
+          "evidence_id": "f034-E-01",
+          "column": "R01",
+          "candidate_unit_id": "f034-R-01",
+          "layer": "item_excerpt",
+          "bbox_approx_xywh_px": [
+            1604,
+            295,
+            75,
+            164
+          ],
+          "reading": "七虛腫",
+          "image_observation": "其上「熱」字為前文之末。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f034-E-02",
+          "column": "R08",
+          "candidate_unit_id": "f034-R-08",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            1098,
+            145,
+            78,
+            294
+          ],
+          "reading": "胞衣不下治法",
+          "image_observation": "欄中下有續文。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f034-E-03",
+          "column": "L03",
+          "candidate_unit_id": "f034-L-03",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            717,
+            147,
+            80,
+            499
+          ],
+          "reading": "胞衣不下或經一兩宿者",
+          "image_observation": "欄首。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f034-E-04",
+          "column": "L09",
+          "candidate_unit_id": "f034-L-09",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            313,
+            971,
+            80,
+            235
+          ],
+          "reading": "此方名奪命丹",
+          "image_observation": "同欄較下。",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 35,
+      "image_sha256": "73c29fe1a451e2d5fcaec153084ab53c702cbd600fd82d04a5558e54f2bc15c8",
+      "column_counts": {
+        "R": 10,
+        "L": 10
+      },
+      "layout": "右面續胞衣，繼為血暈。左面按血暈分條列症及方。",
+      "image_readings": [
+        {
+          "evidence_id": "f035-E-01",
+          "column": "R09",
+          "candidate_unit_id": "f035-R-09",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            1031,
+            146,
+            75,
+            114
+          ],
+          "reading": "血暈",
+          "image_observation": "同欄下續「因敗血流入肝經」。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f035-E-02",
+          "column": "L01",
+          "candidate_unit_id": "f035-L-01",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            859,
+            142,
+            81,
+            354
+          ],
+          "reading": "夫血暈之症有三",
+          "image_observation": "欄首。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f035-E-03",
+          "column": "L02",
+          "candidate_unit_id": "f035-L-02",
+          "layer": "item_lead",
+          "bbox_approx_xywh_px": [
+            793,
+            147,
+            76,
+            351
+          ],
+          "reading": "一下血少而暈者",
+          "image_observation": "同欄自數字一另起。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f035-E-04",
+          "column": "L06",
+          "candidate_unit_id": "f035-L-06",
+          "layer": "body_excerpt",
+          "bbox_approx_xywh_px": [
+            503,
+            161,
+            82,
+            280
+          ],
+          "reading": "用香附炒去皮毛",
+          "image_observation": "藥名下連製法。",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 36,
+      "image_sha256": "2b923382cd85da046e3c1537166a8165aa00d3e646dad1a352ed7a62048292a0",
+      "column_counts": {
+        "R": 10,
+        "L": 10
+      },
+      "layout": "中縫復見濃黑線，右面論血暈有兩則引語，左面接方藥。",
+      "image_readings": [
+        {
+          "evidence_id": "f036-E-01",
+          "column": "R01",
+          "candidate_unit_id": "f036-R-01",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            1599,
+            535,
+            85,
+            295
+          ],
+          "reading": "清魂散",
+          "image_observation": "欄中明見。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f036-E-02",
+          "column": "R06",
+          "candidate_unit_id": "f036-R-06",
+          "layer": "body_excerpt",
+          "bbox_approx_xywh_px": [
+            1245,
+            149,
+            88,
+            380
+          ],
+          "reading": "識眩暈須量虛實",
+          "image_observation": "「識」字待覆。",
+          "status": "image_candidate"
+        },
+        {
+          "evidence_id": "f036-E-03",
+          "column": "R08",
+          "candidate_unit_id": "f036-R-08",
+          "layer": "attribution",
+          "bbox_approx_xywh_px": [
+            1100,
+            139,
+            89,
+            435
+          ],
+          "reading": "崔氏云產後暈多是血",
+          "image_observation": "欄首引語。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f036-E-04",
+          "column": "R10",
+          "candidate_unit_id": "f036-R-10",
+          "layer": "attribution",
+          "bbox_approx_xywh_px": [
+            963,
+            136,
+            75,
+            318
+          ],
+          "reading": "又論產訖舉家",
+          "image_observation": "緊鄰黑線右側。",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 37,
+      "image_sha256": "543d73cbd418bb004b084590adc68b30d84bda797e5f2049effd3393d9a8d60d",
+      "column_counts": {
+        "R": 10,
+        "L": 10
+      },
+      "layout": "中央濃黑豎界。右面產後子宮、產後腹痛、產後百病，左面又起產後中風。",
+      "image_readings": [
+        {
+          "evidence_id": "f037-E-01",
+          "column": "R03",
+          "candidate_unit_id": "f037-R-03",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            1459,
+            143,
+            74,
+            297
+          ],
+          "reading": "產後子宮不閉",
+          "image_observation": "下段繼方名。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f037-E-02",
+          "column": "R06",
+          "candidate_unit_id": "f037-R-06",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            1234,
+            144,
+            73,
+            193
+          ],
+          "reading": "生腸不收",
+          "image_observation": "欄首第一字呈生，留底本原貌。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f037-E-03",
+          "column": "R08",
+          "candidate_unit_id": "f037-R-08",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            1095,
+            131,
+            75,
+            396
+          ],
+          "reading": "產後子宮痛不可忍",
+          "image_observation": "同欄以「用」續文。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f037-E-04",
+          "column": "R10",
+          "candidate_unit_id": "f037-R-10",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            945,
+            129,
+            77,
+            195
+          ],
+          "reading": "產後百病",
+          "image_observation": "分欄於中黑線右側。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f037-E-05",
+          "column": "L06",
+          "candidate_unit_id": "f037-L-06",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            512,
+            143,
+            73,
+            214
+          ],
+          "reading": "產後中風",
+          "image_observation": "中部下文接服藥。",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 38,
+      "image_sha256": "12e94ee59e467f5ae3d7576fe9bab34ee8d0e814b32414d4c03140cc9205ee12",
+      "column_counts": {
+        "R": 10,
+        "L": 10
+      },
+      "layout": "中央黑界續存。右半中風諸說，左半產後中風、中寒、感寒及咳嗽。",
+      "image_readings": [
+        {
+          "evidence_id": "f038-E-01",
+          "column": "R07",
+          "candidate_unit_id": "f038-R-07",
+          "layer": "item_excerpt",
+          "bbox_approx_xywh_px": [
+            1181,
+            344,
+            67,
+            320
+          ],
+          "reading": "一中風四肢麻痺",
+          "image_observation": "右半欄腰。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f038-E-02",
+          "column": "L02",
+          "candidate_unit_id": "f038-L-02",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            795,
+            163,
+            76,
+            319
+          ],
+          "reading": "產後大慎觸犯",
+          "image_observation": "而後接因致病。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f038-E-03",
+          "column": "L03",
+          "candidate_unit_id": "f038-L-03",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            720,
+            403,
+            77,
+            295
+          ],
+          "reading": "產後中風口噤",
+          "image_observation": "同欄中段另起。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f038-E-04",
+          "column": "L05",
+          "candidate_unit_id": "f038-L-05",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            589,
+            124,
+            71,
+            218
+          ],
+          "reading": "產後中寒",
+          "image_observation": "同欄中段另寫「一中寒」。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f038-E-05",
+          "column": "L09",
+          "candidate_unit_id": "f038-L-09",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            290,
+            358,
+            88,
+            204
+          ],
+          "reading": "旋覆花湯",
+          "image_observation": "同欄「宜」下。",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 39,
+      "image_sha256": "e1d294740f6aea7be95899ca2751df5d3881ce2422d1e7ca2919e358f7e5f6e1",
+      "column_counts": {
+        "R": 10,
+        "L": 10
+      },
+      "layout": "中縫淡。右面有產後喘促痰涎、遍身疼痛，左側另起產後乍寒熱。",
+      "image_readings": [
+        {
+          "evidence_id": "f039-E-01",
+          "column": "R06",
+          "candidate_unit_id": "f039-R-06",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            1254,
+            130,
+            83,
+            308
+          ],
+          "reading": "產後喘促痰涎",
+          "image_observation": "本欄次段接四物湯。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f039-E-02",
+          "column": "R08",
+          "candidate_unit_id": "f039-R-08",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            1099,
+            700,
+            71,
+            240
+          ],
+          "reading": "神仙百解散",
+          "image_observation": "「仙」字偏右。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f039-E-03",
+          "column": "R10",
+          "candidate_unit_id": "f039-R-10",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            957,
+            117,
+            81,
+            316
+          ],
+          "reading": "產後遍身疼痛",
+          "image_observation": "末欄自題直下，稍隔後正文。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f039-E-04",
+          "column": "L03",
+          "candidate_unit_id": "f039-L-03",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            737,
+            877,
+            80,
+            181
+          ],
+          "reading": "趁痛散",
+          "image_observation": "同欄下部藥名。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f039-E-05",
+          "column": "L07",
+          "candidate_unit_id": "f039-L-07",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            440,
+            131,
+            77,
+            315
+          ],
+          "reading": "產後乍寒熱",
+          "image_observation": "題中「寒」筆淡。",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 40,
+      "image_sha256": "68ee352c728b0cb39d4770aea4ff1a21ac6867a174dc58c3b90acd4c01f1f5cc",
+      "column_counts": {
+        "R": 10,
+        "L": 10
+      },
+      "layout": "右起前幅續文，中有產後發熱、煩悶；左續血入肺、氣喘、虛煩與汗。",
+      "image_readings": [
+        {
+          "evidence_id": "f040-E-01",
+          "column": "R06",
+          "candidate_unit_id": "f040-R-06",
+          "layer": "item_lead",
+          "bbox_approx_xywh_px": [
+            1247,
+            152,
+            83,
+            361
+          ],
+          "reading": "一產後血虛發熱",
+          "image_observation": "右面中段。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f040-E-02",
+          "column": "R08",
+          "candidate_unit_id": "f040-R-08",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            1104,
+            130,
+            79,
+            316
+          ],
+          "reading": "產後煩悶虛熱",
+          "image_observation": "同欄由篇目續論。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f040-E-03",
+          "column": "L02",
+          "candidate_unit_id": "f040-L-02",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            791,
+            99,
+            81,
+            525
+          ],
+          "reading": "產後血入肺面黑發喘欲死",
+          "image_observation": "欄腰人參旁較小。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f040-E-04",
+          "column": "L04",
+          "candidate_unit_id": "f040-L-04",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            656,
+            109,
+            78,
+            361
+          ],
+          "reading": "產後虛羸喘促寒熱",
+          "image_observation": "欄後續「如瘧」。",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f040-E-05",
+          "column": "L10",
+          "candidate_unit_id": "f040-L-10",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            232,
+            122,
+            77,
+            223
+          ],
+          "reading": "產後汗出",
+          "image_observation": "與下一幅產後汗諸條相接。",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 41,
+      "image_sha256": "230a376345dfe62f3c60d7139edf03a355aeeceab37e9a75462e4a2b82b68448",
+      "column_counts": {
+        "R": 10,
+        "L": 10
+      },
+      "layout": "兩面，行末有細筆分量，左第四至七欄近中央水印。",
+      "selected_readings": [
+        "R06 產後蓐勞發熱汗出不止",
+        "R10 痛悶骨節疼痛晡時輒作蒲黃散",
+        "L01 治兒枕痛蒲黃散",
+        "L10 產後煩悶兩脅時痛薄荷散"
+      ]
+    },
+    {
+      "frame": 42,
+      "image_sha256": "1a2b6df8e23df1ee7136464c79a5376cbe1e55b72d03174f0ae627a4a71f6186",
+      "column_counts": {
+        "R": 10,
+        "L": 10
+      },
+      "layout": "兩面，R03 短欄，L07–L08 中段磨淡，末欄有小字。",
+      "selected_readings": [
+        "R04 產後虛煩〔後字漫漶〕麥門冬湯",
+        "R07 產後餘血腹中時時作刺痛增損四物湯",
+        "L01 產後血塊痛不止芎歸散",
+        "L03 產後下血不盡腹痛不可忍桃仁散"
+      ]
+    },
+    {
+      "frame": 43,
+      "image_sha256": "35422ec888dfd0bdc5236f4ab5676ebbdf2a0cd1e24ede26c6649bb0f03d19c4",
+      "column_counts": {
+        "R": 10,
+        "L": 10
+      },
+      "layout": "兩面，R04 殘淡，L07 上部有另筆墨線，L03 条首。",
+      "selected_readings": [
+        "R02 產後汚穢不盡腹痛",
+        "R03 產後泄瀉〔首字待定，形見水旁〕",
+        "R05 產後身熱頭痛",
+        "R10 產後餘血奔心煩悶用地黃湯",
+        "L03 兒枕痛",
+        "L10 產後二十餘日頭大痛"
+      ]
+    },
+    {
+      "frame": 44,
+      "image_sha256": "e99c1c470aaf2a739e42019e806347b3509bbb6674f2026fe8f7c30e9cfe1f99",
+      "column_counts": {
+        "R": 10,
+        "L": 10
+      },
+      "layout": "兩面，中縫水印，R04、L07–08 有磨淡，小註接在味名旁。",
+      "selected_readings": [
+        "R05 產後腹脹嘔吐",
+        "R10 胃氣不和嘔吐不止不納飲食宜服開胃散",
+        "L07 產後因氣腹〔淡〕",
+        "L09 產後血上攻心已死"
+      ]
+    },
+    {
+      "frame": 45,
+      "image_sha256": "63c2c925dea55dc9a19e32ca07988275015611710671a40270de699ab841c89c",
+      "column_counts": {
+        "R": 10,
+        "L": 10
+      },
+      "layout": "兩面，R06 右側細字為藥量，L06、L08 中下部淡墨。",
+      "selected_readings": [
+        "R01 產後乳脈不行",
+        "R05 產後乳無汁",
+        "L05 乳腫",
+        "L06 乳頭破裂",
+        "L08 乳破作痛"
+      ]
+    },
+    {
+      "frame": 46,
+      "image_sha256": "5943f8d3f6c4bc01baa373ae98958faab93b2ca22ca6ac0e72cdff3659ac4416",
+      "column_counts": {
+        "R": 10,
+        "L": 10
+      },
+      "layout": "兩面，R04–05 中段磨淡，題詞與處方同欄。R07 小字「去白」「為末」分層可辨。",
+      "selected_readings": [
+        "R01 產後乳癰候",
+        "R05 治乳癰未破",
+        "L03 產門不閉",
+        "L05 產後陰脫",
+        "L08 產後十日"
+      ]
+    },
+    {
+      "frame": 47,
+      "image_sha256": "fb95557fd17b857d376afe4a2aa90a39163eeee6f78efa997a29c7e9780e7c65",
+      "column_counts": {
+        "R": 10,
+        "L": 10
+      },
+      "layout": "兩面，R03、R04 細筆補語，L08 行首與中段多淡字。",
+      "selected_readings": [
+        "R02 產後血暈悶亂心神恍惚如見鬼神",
+        "R05 產後發狂",
+        "L02 產後喘嗽吐血",
+        "L04 產後喉痛",
+        "L06 產後浮腫"
+      ]
+    },
+    {
+      "frame": 48,
+      "image_sha256": "f4231d09532d17f4c3b29dbe4777662d754f578557b06fbc36da93e4924c30e7",
+      "column_counts": {
+        "R": 10,
+        "L": 10
+      },
+      "layout": "兩面，卷終、後附起首同幅右側分欄。L02 小字以細線分置，L09–10 有附錄文句。",
+      "selected_readings": [
+        "R01 便產須知下卷終",
+        "R02 廣嗣方附",
+        "R09 大効神功消毒保嬰丹"
+      ]
+    },
+    {
+      "frame": 49,
+      "image_sha256": "2a574597e4529e725763b766e7906bc1d8f3c68ba749d99cfce2f2b1675f1597",
+      "column_counts": {
+        "R": 10,
+        "L": 10
+      },
+      "layout": "兩面，R01 只剩短語，R03–05 淡墨，R07 題名隔空另書。",
+      "selected_readings": [
+        "R02 凡初生時小兒口屋并牙根上白點〔口屋待核〕",
+        "R07 雞鳳丸 宣府鎮守都督馬儀傳",
+        "L03 麒麟丸"
+      ]
+    },
+    {
+      "frame": 50,
+      "image_sha256": "cb2127c890e09b42eb6b8c400e53f5bb9f644e6d335190311bdd34e173f179e1",
+      "column_counts": {
+        "R": 10,
+        "L": 6
+      },
+      "layout": "兩面，左六欄後留寬空，方名及小字分組。R05、L04 局部淡刷。",
+      "selected_readings": [
+        "R04 五子衍宗",
+        "L01 種玉丸",
+        "L03 真阿膠"
+      ]
+    },
+    {
+      "frame": 51,
+      "image_sha256": "890233fb9f153bfc920258ee7aeea4d67fee0277605b592b995023248c6ae141",
+      "column_counts": {
+        "R": 10,
+        "L": 10
+      },
+      "layout": "兩面，右一題與署款同欄不同段，R04 起字極淡，細筆分在主欄旁。",
+      "selected_readings": [
+        "R01 時痘疹精粹",
+        "R01下 金閶葉天士先生〔尾部淡〕",
+        "R02 小兒額角常現青黑斑點者乃腎之候也",
+        "L04 小兒兩鬢邊無病時常現紫色紋者"
+      ]
+    },
+    {
+      "frame": 52,
+      "image_sha256": "370994b1eb30846e73fbfcff7bfb7774552c9475a69d3addaf811e247252733b",
+      "column_counts": {
+        "R": 10,
+        "L": 10
+      },
+      "layout": "兩面，R10 兩字短欄，R04–07 與 L05–06 中段多斷墨。",
+      "selected_readings": [
+        "R01 山根乃心之地位青乃肝之色",
+        "R08 是痘名金裹銀也",
+        "R09 耳後紋",
+        "L03 小兒耳後現微紅紋"
+      ]
+    },
+    {
+      "frame": 53,
+      "image_sha256": "35b80f6ca97a914ca39da73cab0ba80608a73559ccda1ad1c50b452d80aefce6",
+      "column_counts": {
+        "R": 10,
+        "L": 10
+      },
+      "layout": "兩面，各紋題名在正文欄內，R04、R06、L05、L07 中段淡墨，L06 短欄。",
+      "selected_readings": [
+        "R01 是紋名碎絲紋",
+        "R06 是名披髮〔尾部淡〕",
+        "R09 耳後紋大者紫小者紅",
+        "L03 耳後現人字紫色",
+        "L04 是名人字紋"
+      ]
+    },
+    {
+      "frame": 54,
+      "image_sha256": "4ee43124bf6aa2aa135045a2fc40ce1807fd2fcc66644936ccc2bcf22c841499",
+      "column_counts": {
+        "R": 10,
+        "L": 10
+      },
+      "layout": "兩面，R02 上端、R06 中段、L06 中段及 L07 磨淡，短語仍各為獨立欄。",
+      "selected_readings": [
+        "R01 小兒耳後現直紋如針芒〔後字待核〕",
+        "R03 是紋名針入沙紋",
+        "L01 眼下胞常現青紋者",
+        "L02 俗名柳葉挂青絲"
+      ]
+    },
+    {
+      "frame": 55,
+      "image_sha256": "4626aada365212872f18d2f5874b657828773fc49a92667a79a8c508f5f5d60f",
+      "column_counts": {
+        "R": 10,
+        "L": 10
+      },
+      "layout": "兩面，R04、R06、L01、L05–08 均多淡墨。R10 短欄。",
+      "selected_readings": [
+        "R05 出痘重症也",
+        "R06 名曰黑霧",
+        "R09 小兒眼上胞常現紅亂〔後字待核〕",
+        "L04 小兒眼大角常現紫〔中段淡〕"
+      ]
+    },
+    {
+      "frame": 56,
+      "image_sha256": "526e18dff4b1af0d4f0d8cfc52154fb3b8dad82fb7c224edfb72aeb67ff16beb",
+      "column_counts": {
+        "R": 10,
+        "L": 10
+      },
+      "layout": "兩面，L09 三字單欄，小字藥名與數字在 L04–L08，中央多淡。",
+      "selected_readings": [
+        "R01 發熱四日而見點于地角",
+        "R03 小兒白珠常現青黃紅色",
+        "L03 解毒丹",
+        "L07 稀痘方",
+        "L09 痘疹論"
+      ]
+    },
+    {
+      "frame": 57,
+      "image_sha256": "679091e02f612bc3b558aef274ca1ac8774ee4e1bb027c657d79f195aab5f04b",
+      "column_counts": {
+        "R": 10,
+        "L": 10
+      },
+      "layout": "兩面，上下字間分明但水印過界；L01、L04、L05、L08 有殘淡。",
+      "selected_readings": [
+        "R01 毒所致出發之時與傷寒相〔淡〕",
+        "R10 表裏虛實治之氣虛則色〔淡〕",
+        "L05 先氣血既平",
+        "L08 若如痘疹未出之時"
+      ]
+    },
+    {
+      "frame": 58,
+      "image_sha256": "14ba084b19e275e08d1a081300a05549171d0a486029298a674a684b676bd750",
+      "column_counts": {
+        "R": 10,
+        "L": 3
+      },
+      "layout": "右十欄，左三欄後留大白；L03 定位為全 PDF 最後一欄。",
+      "selected_readings": [
+        "R02 表虛",
+        "R09 兩眼角內并心頭",
+        "R10 凡痘初出須看胸前",
+        "L01 汗不妨",
+        "L03 急以凉藥解其標"
+      ]
+    }
+  ],
+  "changes": [
+    {
+      "unit": "f010-R-05",
+      "frame": 10,
+      "image_sha256": "341b1fb5b8c86b9cec76572c671c5461f16993edba56c76f4b7b4bd7fc0efc3d",
+      "before": "妊娠有傷腹痛不安或從高墜下重物所壓觸動胎元",
+      "after": "妊娠因有傷腹痛不安或從高墜下重物所壓觸動胎元",
+      "reason": "原圖 E02 見娠下窄小因字，與有字有明顯間距。",
+      "replace_in_linked_readings": [
+        "妊娠有傷",
+        "妊娠因有傷"
+      ]
+    },
+    {
+      "unit": "f013-R-09",
+      "frame": 13,
+      "image_sha256": "b9fd0c81d8b745e7011bbb7a3a3753b05defa8292c5b84fb2610d388ccee6a40",
+      "before": "妊娠藏燥甘麥大棗湯症具金匱",
+      "after": "妊娠臟燥甘麥大棗湯症具金匱",
+      "reason": "原圖 E02 第三字左月、右藏，收錄臟。",
+      "replace_in_linked_readings": [
+        "妊娠藏燥",
+        "妊娠臟燥"
+      ]
+    },
+    {
+      "unit": "f019-R-01",
+      "frame": 19,
+      "image_sha256": "b865368cdc2c7128982eaa010bae0b9e67e46c35e095e44bf1ce664f27cef6f0",
+      "before": "一諸般不得喧鬧房中常要緊閉",
+      "after": "一諸般不得喧閙房中常要緊閉",
+      "reason": "原圖 E01 緊接喧的字有外框門，內置市形。",
+      "replace_in_linked_readings": [
+        "喧鬧",
+        "喧閙"
+      ]
+    },
+    {
+      "unit": "f021-L-01",
+      "frame": 21,
+      "image_sha256": "bd18ba7a7cbec405a922ca3e8d43b8fd5c4f9e4f15daf9ae67c0737309a29d9f",
+      "before": "催生萬金〔方〕萆麻子去殼研細塗兩足心產下即洗去",
+      "after": "催生万金膏萆麻子去殼研細塗兩足心產下即洗去",
+      "reason": "原圖 E04 金下字有高旁式上部與月形下部。萬字位置作原筆万。",
+      "replace_in_linked_readings": [
+        "催生萬金〔方〕",
+        "催生万金膏"
+      ]
+    },
+    {
+      "unit": "f044-R-10",
+      "frame": 44,
+      "image_sha256": "e99c1c470aaf2a739e42019e806347b3509bbb6674f2026fe8f7c30e9cfe1f99",
+      "before": "胃氣不和嘔吐不止不納飲食宜服和胃散　訶子肉一兩",
+      "after": "胃氣不和嘔吐不止不納飲食宜服開胃散　訶子肉一兩",
+      "reason": "「胃」上字門形圍合、中央兩筆，讀開，與禾口分置不同。",
+      "replace_in_linked_readings": [
+        "和胃散",
+        "開胃散"
+      ]
+    },
+    {
+      "unit": "f047-R-02",
+      "frame": 47,
+      "image_sha256": "fb95557fd17b857d376afe4a2aa90a39163eeee6f78efa997a29c7e9780e7c65",
+      "before": "產後血暈閇亂心神恍惚如見鬼神　生益母草汁三合",
+      "after": "產後血暈悶亂心神恍惚如見鬼神　生益母草汁三合",
+      "reason": "「亂」上字門形下可見心形連筆，讀悶。",
+      "replace_in_linked_readings": [
+        "閇亂",
+        "悶亂"
+      ]
+    },
+    {
+      "unit": "f048-R-09",
+      "frame": 48,
+      "image_sha256": "f4231d09532d17f4c3b29dbe4777662d754f578557b06fbc36da93e4924c30e7",
+      "before": "大效神功消毒保嬰丹　凡小兒未出痘瘡每遇交春分",
+      "after": "大効神功消毒保嬰丹　凡小兒未出痘瘡每遇交春分",
+      "reason": "第二字右作力旁，古寫効，與攵形有別。",
+      "replace_in_linked_readings": [
+        "大效",
+        "大効"
+      ]
+    },
+    {
+      "unit": "f050-R-04",
+      "frame": 50,
+      "image_sha256": "cb2127c890e09b42eb6b8c400e53f5bb9f644e6d335190311bdd34e173f179e1",
+      "before": "五子徵□　古今第一種子方以藥性極平穩之故",
+      "after": "五子衍宗　古今第一種子方以藥性極平穩之故",
+      "reason": "短標第三字可辨行旁夾中筆，末字宀下見示。名稱讀法與逐字字形相合。",
+      "replace_in_linked_readings": [
+        "五子徵□",
+        "五子衍宗"
+      ]
+    },
+    {
+      "unit": "f051-R-01",
+      "frame": 51,
+      "image_sha256": "890233fb9f153bfc920258ee7aeea4d67fee0277605b592b995023248c6ae141",
+      "before": "時痘疹精粹　金〔閶？〕葉天士先生祕傳",
+      "after": "時痘疹精粹　金閶葉天士先生祕傳",
+      "reason": "卷首署款金下門內可辨作昌，收錄閶。",
+      "replace_in_linked_readings": [
+        "金〔閶？〕",
+        "金閶"
+      ]
+    },
+    {
+      "unit": "f052-R-08",
+      "frame": 52,
+      "image_sha256": "370994b1eb30846e73fbfcff7bfb7774552c9475a69d3addaf811e247252733b",
+      "before": "是痘名金裏銀也",
+      "after": "是痘名金裹銀也",
+      "reason": "金下寫衣包果，中央有直筆向下及分叉，支援裹。",
+      "replace_in_linked_readings": [
+        "金裏銀",
+        "金裹銀"
+      ]
+    },
+    {
+      "unit": "f058-L-03",
+      "frame": 58,
+      "image_sha256": "14ba084b19e275e08d1a081300a05549171d0a486029298a674a684b676bd750",
+      "before": "急以涼藥解其標",
+      "after": "急以凉藥解其標",
+      "reason": "末欄該字左旁兩點，從冫，不另正體化。",
+      "replace_in_linked_readings": [
+        "涼藥",
+        "凉藥"
+      ]
+    }
+  ]
+}

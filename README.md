@@ -12,9 +12,9 @@ The complete 58-page image PDF is indexed, including the cover, inscription, two
 
 ## 文字與覆核 / Text and review
 
-AI 輔助初錄。保留原件缺損、疑讀及全冊影像定位。未做人類全文雙校、專家審定、同儕審查或準確率量測。PDF 頁碼固定，展開面依右、左葉分列。留疑的讀字可依幅、面與欄定位。圖像水印另作現代掃描記號。
+58幅逐幅回圖盤點，另讀題記、條首、夾注與疑字，依字形採用 11 項訂正。覆核為逐幅選讀。未做人類全文雙校、專家審定、同儕審查或準確率量測。PDF 頁碼固定，展開面依右、左葉分列。留疑的讀字可依幅、面與欄定位。圖像水印另作現代掃描記號。
 
-AI-assisted initial transcription with source references and marked uncertainties. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed. PDF page numbers are fixed. Facing leaves are distinguished by side. Uncertain readings refer to their leaf and column, while digitization watermarks are recorded separately.
+All 58 images received an image review and a selective rereading of inscriptions, headings, marginal writing and difficult characters. 11 image-supported changes are documented. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed. PDF page numbers are fixed. Facing leaves are distinguished by side. Uncertain readings refer to their leaf and column, while digitization watermarks are recorded separately.
 
 TXT 依幅、面與欄提供閱讀定位。JSON 和 TEI 採同一固定取文。「□」標難辨字，缺幅或不確定缺字處由頁面說明及疑義資料標示。完整提示、私有覆核過程與專用程式未隨附。AI 實際模型路由與用量未知。
 

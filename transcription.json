@@ -7,10 +7,10 @@
     "source": "https://catalog.digitalarchives.tw/item/00/08/67/7b.html",
     "manifest": "https://commons.wikimedia.org/wiki/File:NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf",
     "language": "lzh",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "date": "2026-11-22",
-    "quality_zh": "AI 輔助初錄。保留原件缺損、疑讀及全冊影像定位。未做人類全文雙校、專家審定、同儕審查或準確率量測。",
-    "quality_en": "AI-assisted initial transcription with source references and marked uncertainties. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.",
+    "quality_zh": "58幅逐幅回圖盤點，另讀題記、條首、夾注與疑字，依字形採用 11 項訂正。覆核為逐幅選讀。未做人類全文雙校、專家審定、同儕審查或準確率量測。",
+    "quality_en": "All 58 images received an image review and a selective rereading of inscriptions, headings, marginal writing and difficult characters. 11 image-supported changes are documented. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -1645,7 +1645,7 @@
             {
               "id": "f010-R-05",
               "role": "main_text",
-              "text": "妊娠有傷腹痛不安或從高墜下重物所壓觸動胎元",
+              "text": "妊娠因有傷腹痛不安或從高墜下重物所壓觸動胎元",
               "language": "lzh"
             },
             {
@@ -2173,7 +2173,7 @@
             {
               "id": "f013-R-09",
               "role": "main_text",
-              "text": "妊娠藏燥甘麥大棗湯症具金匱",
+              "text": "妊娠臟燥甘麥大棗湯症具金匱",
               "language": "lzh"
             },
             {
@@ -3150,7 +3150,7 @@
             {
               "id": "f019-R-01",
               "role": "main_text",
-              "text": "一諸般不得喧鬧房中常要緊閉",
+              "text": "一諸般不得喧閙房中常要緊閉",
               "language": "lzh"
             },
             {
@@ -3616,7 +3616,7 @@
             {
               "id": "f021-L-01",
               "role": "main_text",
-              "text": "催生萬金〔方〕萆麻子去殼研細塗兩足心產下即洗去",
+              "text": "催生万金膏萆麻子去殼研細塗兩足心產下即洗去",
               "language": "lzh"
             },
             {
@@ -8128,7 +8128,7 @@
             {
               "id": "f044-R-10",
               "role": "main_text",
-              "text": "胃氣不和嘔吐不止不納飲食宜服和胃散　訶子肉一兩",
+              "text": "胃氣不和嘔吐不止不納飲食宜服開胃散　訶子肉一兩",
               "language": "lzh"
             }
           ],
@@ -8785,9 +8785,9 @@
             {
               "id": "f047-R-02",
               "role": "mixed_heading_and_text",
-              "text": "產後血暈閇亂心神恍惚如見鬼神　生益母草汁三合",
+              "text": "產後血暈悶亂心神恍惚如見鬼神　生益母草汁三合",
               "language": "lzh",
-              "heading_text": "產後血暈閇亂"
+              "heading_text": "產後血暈悶亂"
             },
             {
               "id": "f047-R-03",
@@ -9058,9 +9058,9 @@
             {
               "id": "f048-R-09",
               "role": "mixed_heading_and_text",
-              "text": "大效神功消毒保嬰丹　凡小兒未出痘瘡每遇交春分",
+              "text": "大効神功消毒保嬰丹　凡小兒未出痘瘡每遇交春分",
               "language": "lzh",
-              "heading_text": "大效神功消毒保嬰丹"
+              "heading_text": "大効神功消毒保嬰丹"
             },
             {
               "id": "f048-R-10",
@@ -9549,9 +9549,9 @@
             {
               "id": "f050-R-04",
               "role": "mixed_heading_and_text",
-              "text": "五子徵□　古今第一種子方以藥性極平穩之故",
+              "text": "五子衍宗　古今第一種子方以藥性極平穩之故",
               "language": "lzh",
-              "heading_text": "五子徵□"
+              "heading_text": "五子衍宗"
             },
             {
               "id": "f050-R-05",
@@ -9815,12 +9815,12 @@
             {
               "id": "f051-R-01",
               "role": "title",
-              "text": "時痘疹精粹　金〔閶？〕葉天士先生祕傳",
+              "text": "時痘疹精粹　金閶葉天士先生祕傳",
               "language": "lzh",
               "heading_text": "時痘疹精粹",
               "small_notes": [
                 "時痘疹精粹",
-                "金〔閶？〕葉天士先生祕傳"
+                "金閶葉天士先生祕傳"
               ]
             },
             {
@@ -10003,7 +10003,7 @@
           "related_unit_ids": [
             "f051-R-01"
           ],
-          "text": "金〔閶？〕葉天士先生祕傳"
+          "text": "金閶葉天士先生祕傳"
         }
       ],
       "uncertainty": [
@@ -10137,7 +10137,7 @@
             {
               "id": "f052-R-08",
               "role": "main_text",
-              "text": "是痘名金裏銀也",
+              "text": "是痘名金裹銀也",
               "language": "lzh"
             },
             {
@@ -11645,7 +11645,7 @@
             {
               "id": "f058-L-03",
               "role": "main_text",
-              "text": "急以涼藥解其標",
+              "text": "急以凉藥解其標",
               "language": "lzh"
             }
           ],
@@ -11770,7 +11770,8 @@
       "mixed_heading_and_text": 79,
       "explicit": 1
     },
-    "uncertainty_records": 262
+    "uncertainty_records": 262,
+    "reviewed_image_frames": 58
   },
   "source_reference": {
     "pdf": "https://upload.wikimedia.org/wikipedia/commons/6/69/NCL-06118_%E4%BE%BF%E7%94%A2%E9%A0%88%E7%9F%A5.pdf",
